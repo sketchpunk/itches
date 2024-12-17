@@ -37,3 +37,6 @@ round(dot(reflect(-lightDir, norm), viewDir) * x) / x;
 ### Cluster Lighting
 - https://x.com/shawn03261/status/1792924248790499430
 - https://uinosoft.github.io/t3d.js/examples/#renderer_clustered_lighting
+
+### Cheaper PBR
+- https://community.arm.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-20-66/siggraph2015_2D00_mmg_2D00_renaldas_2D00_slides.pdf

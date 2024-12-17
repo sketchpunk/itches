@@ -5,6 +5,10 @@
 
 ### Inigo Quilez
 - https://x.com/iquilezles/status/1815189030826602876 useful functions
+- https://iquilezles.org/articles/functions/
+
+### Derivatives
+- https://medium.com/@akella/love-derivatives-and-loops-f4a0da6e2458 REALLY Cool grid animatiion
 
 ### Chromatric aberration
 - https://x.com/XorDev/status/1831738521935360079
@@ -55,5 +59,124 @@ s: 4 (bits of stride)
 ### spherize UV
 - https://x.com/bruno_simon/status/1801637441645789683
 
-## UV to Vec3
+### UV to Vec3
 - https://x.com/SoundSafari_io/status/1800686190468661630
+
+### Pythagorean Theorem - Spherical Version
+- cos(a) = cos(b) cos(c)
+- https://x.com/74WTungsteno/status/1850538184255353272
+- https://x.com/74WTungsteno/status/1850417403936625120
+- https://x.com/74WTungsteno/status/1850296586057703697
+- sin(α) = sin(a) / sin(c)
+cos(α) = tan(b) / tan(c)
+tan(α) = tan(a) / sin(b)
+- Spherical Cosine Rule
+cos(a) = cos(b)cos(c) + sin(b)sin(c)cos(α)
+
+
+### Laplace Transform - Interesting damping curve equations in tweet
+- https://x.com/Knowledgehub_67/status/1850978810818359303
+- (( sin( tx ) ) / x ) * dx === pi / 2
+
+
+### 3D Coil
+- https://x.com/Knowledgehub_67/status/1850976177093017826
+- e^ia = cos( a ) + i * sin( a )
+
+### Monotone Cubic Interpolation of Quaternions
+- https://x.com/anorangeduck/status/1843978305093132467
+- https://x.com/anorangeduck/status/1853963107351064701
+- https://theorangeduck.com/page/cubic-interpolation-quaternions#overshoot
+- https://jbrd.github.io/2020/12/27/monotone-cubic-interpolation.html
+
+### Cool Fire Pattern
+- https://x.com/Pixelated_Donut/status/1856500971083575647
+- https://x.com/Pixelated_Donut/status/1856339794487550371
+
+### Geometric Spiral with Variable Angles
+- https://www.tungsteno.io/post/exa-spiral_complex_geometric_sum
+
+### Schwarz Transformations
+- https://x.com/74WTungsteno/status/1861651399332806671
+- https://www.tungsteno.io/post/app-schwarz_transformations/
+
+### Möbius Transformations
+- https://www.tungsteno.io/post/app-mobius_transformations/
+
+### Bitangent Circle
+- Exterior Point - https://www.tungsteno.io/post/app-circles_exterior_point_bitangent_circle
+- Interior Point - https://www.tungsteno.io/post/app-circles_interior_point_bitangent_circle
+
+### Circle Polar Line Reciprocity
+- https://x.com/74WTungsteno/status/1866845634365379005
+- https://www.tungsteno.io/post/app-circle_polar_recip
+
+### Hilbert Curve
+- https://github.com/mrdoob/three.js/blob/master/examples/webgl_lines_colors.html
+
+### Projective Transformation of 4 point plane
+- https://x.com/74WTungsteno/status/1863342529673855204
+
+
+### Different Sine Shapes from polygon side count
+- https://1ucasvb.tumblr.com/post/42906053623/in-a-previous-post-i-showed-how-to-geometrically
+- https://1ucasvb.tumblr.com/post/42881722643/the-familiar-trigonometric-functions-can-be
+- https://x.com/mathladyhazel/status/1867439854751297992
+- PPn(x) = sec((2/n)·arcsin(sin((n/2)·x)))   // N is side count
+- Psinn(x) = PPn(x)·sin(x)
+- Pcosn(x) = PPn(x)·cos(x)
+
+### Non-Uniform Scaling - on Normals
+- https://x.com/lisyarus/status/1867287966881640472
+- https://www.reedbeta.com/blog/normals-inverse-transpose-part-1/
+- sx = s.y*s.z, sy = s.x*s.z, sz = s.x*s.y
+
+- https://x.com/iquilezles/status/1866219178409316362
+- https://x.com/iquilezles/status/1866586811864322554
+- shadertoy.com/view/3s33zj
+
+- https://github.com/graphitemaster/normals_revisited
+Included here is some sample C code for calculating the cofactor of a 4x4 matrix which can be used instead of transpose(inverse(M))
+float minor(const float m[16], int r0, int r1, int r2, int c0, int c1, int c2) {
+  return m[4*r0+c0] * (m[4*r1+c1] * m[4*r2+c2] - m[4*r2+c1] * m[4*r1+c2]) -
+         m[4*r0+c1] * (m[4*r1+c0] * m[4*r2+c2] - m[4*r2+c0] * m[4*r1+c2]) +
+         m[4*r0+c2] * (m[4*r1+c0] * m[4*r2+c1] - m[4*r2+c0] * m[4*r1+c1]);
+}
+void cofactor(const float src[16], float dst[16]) {
+  dst[ 0] =  minor(src, 1, 2, 3, 1, 2, 3);
+  dst[ 1] = -minor(src, 1, 2, 3, 0, 2, 3);
+  dst[ 2] =  minor(src, 1, 2, 3, 0, 1, 3);
+  dst[ 3] = -minor(src, 1, 2, 3, 0, 1, 2);
+  dst[ 4] = -minor(src, 0, 2, 3, 1, 2, 3);
+  dst[ 5] =  minor(src, 0, 2, 3, 0, 2, 3);
+  dst[ 6] = -minor(src, 0, 2, 3, 0, 1, 3);
+  dst[ 7] =  minor(src, 0, 2, 3, 0, 1, 2);
+  dst[ 8] =  minor(src, 0, 1, 3, 1, 2, 3);
+  dst[ 9] = -minor(src, 0, 1, 3, 0, 2, 3);
+  dst[10] =  minor(src, 0, 1, 3, 0, 1, 3);
+  dst[11] = -minor(src, 0, 1, 3, 0, 1, 2);
+  dst[12] = -minor(src, 0, 1, 2, 1, 2, 3);
+  dst[13] =  minor(src, 0, 1, 2, 0, 2, 3);
+  dst[14] = -minor(src, 0, 1, 2, 0, 1, 3);
+  dst[15] =  minor(src, 0, 1, 2, 0, 1, 2);
+}
+
+
+### Four Bar Linkage
+- https://dynref.engr.illinois.edu/aml.html
+- https://www.youtube.com/watch?v=EBqrDj-Wkiw
+- https://www.youtube.com/watch?v=mCoCeuhi1v8
+- https://www.desmos.com/calculator/egmi3wr0o7
+- https://github.com/goessner/mec2
+- https://github.com/fjovine/FourBarLinkage
+- https://github.com/dillonhuff/fourbar
+- https://github.com/hrldcpr/linkages?files=1
+- https://github.com/dillonhuff/linkage_solver
+- https://github.com/Rod-Persky/Simple-Four-Bar
+- https://github.com/RCmags/FourBarSimulation
+- https://testbook.com/mechanical-engineering/four-bar-linkage-mechanism-and-analysis
+- https://www.chegg.com/homework-help/questions-and-answers/introduction-four-bar-linkages-used-variety-common-mechanisms-windshield-wipers-many-cars--q43023507
+- https://github.com/MaybeRex/FourBar
+- https://codepen.io/chrdiede/pen/WNWwwqj
+- https://cooperrc.github.io/engineering-dynamics/module_02/project.html
+- https://www.geogebra.org/m/BueCG9ch

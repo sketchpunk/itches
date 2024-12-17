@@ -7,6 +7,10 @@
 - https://x.com/cmzw_/status/1832101678633623714
 - https://x.com/cmzw_/status/1832110358376710637
 - https://x.com/cmzw_/status/1832275974450508132
+- https://x.com/cmzw_/status/1833833267390480477
+- https://x.com/cmzw_/status/1833445561602584870
+- https://x.com/cmzw_/status/1834226483822485703
+- https://x.com/cmzw_/status/1834227187689439496
 
 ### Attractors TSL
 - https://x.com/threejs/status/1831658309813989520

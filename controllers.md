@@ -5,3 +5,6 @@
 - https://rogueengine.io/blog/third-person-controller-tutorial
 - https://x.com/BeardScript/status/1830336529337876870
 
+### Simple Charactger Controller
+- https://github.com/gkjohnson/three-mesh-bvh/blob/master/example/characterMovement.js
+- https://gkjohnson.github.io/three-mesh-bvh/example/bundle/characterMovement.html
