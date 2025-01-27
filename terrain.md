@@ -11,6 +11,9 @@
 - https://wwwtyro.net/2019/03/21/advanced-map-shading.html
 - https://x.com/berttemme/status/1854142850545459407
 
+### Cubic Quad Trees
+- https://github.com/kenjinp/geomancer/commit/d3cdc04553055cb8fc9a5ab5b23fef6a0737a24b
+
 ### Terrain Tiles Id want to make
 - https://x.com/Just_Game_Dev
 - https://x.com/Just_Game_Dev/status/1715434923346035176

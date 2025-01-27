@@ -1,5 +1,9 @@
 # Noise
 
+### Libraries
+- https://github.com/keijiro/NoiseShader
+- https://github.com/stegu/webgl-noise
+
 ### Value erosion
 - https://x.com/Tuatara_Games/status/1859658039172923439
 - en = saturate( ( sat(n)-sat(erosionAmt) ) / ( softnessAmt=0.5) )

@@ -40,3 +40,8 @@ round(dot(reflect(-lightDir, norm), viewDir) * x) / x;
 
 ### Cheaper PBR
 - https://community.arm.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-20-66/siggraph2015_2D00_mmg_2D00_renaldas_2D00_slides.pdf
+
+### Gamma Correction
+- https://x.com/XorDev/status/1882941307683045593
+- https://mini.gmshaders.com/p/gamma
+- https://x.com/XorDev/status/1882938478834671837

@@ -1,5 +1,9 @@
 # MISC
 
+### Open Source Cad Modeling Tool
+- https://zoo.dev/modeling-app
+- https://github.com/KittyCAD/modeling-app/tree/main
+
 ### React Fiber from Scratch
 - https://x.com/Cody_J_Bennett/status/1632674029218799617
 - https://codesandbox.io/p/sandbox/uuujk7
@@ -7,7 +11,6 @@
 
 ### State management
 - https://gitlab.com/unconed/use.gpu/-/tree/master/packages/state?ref_type=heads
-
 
 ### Reactive Library - Rebuilt of React Core
 - https://gitlab.com/unconed/use.gpu/-/tree/master/packages/live?ref_type=heads
@@ -33,11 +36,16 @@
 - https://boytchev.github.io/suica/examples/suica-orientation.html
 - https://boytchev.github.io/suica/docs/suica.html#orientation
 
+### Manifold renderer plugin for blender
+- https://github.com/JohnKazucki/Manifold 
+- https://x.com/JohnKazArt/status/1875598009284882504
+
 ### Parametric Modelling
 - https://x.com/nilay_savant/status/1787844960277934305
 - https://github.com/nilaysavant/bevy_pmetra
 - https://pmetra.nilay.cc/
 
 
-
-https://x.com/trusktr/status/1862788872461037806
+### AST - Abstract Syntax Trees
+- https://jotadeveloper.medium.com/abstract-syntax-trees-on-javascript-534e33361fc7
+- https://dev.to/marvinjude/abstract-syntax-trees-and-practical-applications-in-javascript-4a3

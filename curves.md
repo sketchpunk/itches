@@ -16,3 +16,6 @@
  - Also has Hermite Lerp of Quats
  - Uses angular velocity
 - https://jbrd.github.io/2020/12/27/monotone-cubic-interpolation.html
+
+### curve functions
+- https://x.com/pickover/status/1869753767211704321

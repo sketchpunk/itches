@@ -15,3 +15,7 @@
 
 ### Fake Sky
 - https://www.shadertoy.com/view/lt2SR1
+
+### Godot ProceduralSkyMaterial
+- https://github.com/godotengine/godot/pull/101973/files#diff-d5856a06629808040cd62db3068860792e1d9085803512467c8da4cd4f4aaa4e
+- https://www.youtube.com/watch?v=SzNmHPr4vf8

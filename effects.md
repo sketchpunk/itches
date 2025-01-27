@@ -119,6 +119,9 @@
 - https://www.youtube.com/watch?v=H5QZhChfa1I&feature=youtu.be
 - https://x.com/GabrielAguiarFX/status/1857435914886173120
 
+### Parallax Effects
+- https://www.patreon.com/posts/29753575
+
 ### Fluid Distortion
 - https://github.com/whatisjery/react-fluid-distortion
 - https://codesandbox.io/p/github/whatisjery/react-fluid-distortion/main
@@ -133,6 +136,17 @@
 
 ### Bloom Post Effect in 3Js
 - https://x.com/th_ebenezer/status/1866188006589419767
+
+### Depth Shield with textures
+- https://x.com/OtanoDesign/status/1872767421897126278
+- https://github.com/otanodesignco/r3f-barrier
+
+### Fire / Smoke Effect
+- https://x.com/TheMirzaBeig/status/1876609864983797848
+- https://x.com/TheMirzaBeig/status/1866590150723006528
+- https://x.com/TheMirzaBeig/status/1866115307032412623
+- https://x.com/TheMirzaBeig/status/1876609860017774652
+- https://www.linkedin.com/posts/mirzabeig_gamedev-vfx-realtimevfx-activity-7283091088498683905-d1Io?utm_source=share&utm_medium=member_desktop
 
 ### UV & Shader Tricks
 - Bulge, Pinch and Pan UV : https://x.com/Tuatara_Games/status/1854584610606530821

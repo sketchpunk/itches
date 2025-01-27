@@ -1,5 +1,8 @@
 # Misc Graphics Programming
 
+### Resources
+- https://threejsresources.com/
+
 ### Deformation with Polar Coordinates on Plane, curvilinear coords:
 - https://x.com/TheMirzaBeig/status/1828047194986848344
 

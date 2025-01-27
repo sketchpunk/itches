@@ -64,3 +64,7 @@
 
 ### Mechanical Wing Rig
 - https://x.com/DemNikoArt/status/1856461011160600961
+
+### Deformable Mesh
+- https://x.com/cloudofoz/status/1870122139606524225
+- https://github.com/cloudofoz/godot-deformablemesh

@@ -1,7 +1,15 @@
 # Blender
 
+### Plugins
+- Import SFM MDL : https://github.com/REDxEYE/SourceIO
+- Import MMD : https://github.com/UuuNyaa/blender_mmd_tools
+- UV Squares ( Straighten curved UVs ): https://github.com/Radivarig/UvSquares
+
 ### AutoUV Free Plugin
 - https://blendermarket.com/products/free-addon-autouv/?ref=794
+
+### Materials
+- Procgen Rust - https://www.youtube.com/watch?v=R64VesQyRn0
 
 ### Double Subdiv Method for basemesh design
 - https://x.com/JanvandenHemel/status/1838982024255725770

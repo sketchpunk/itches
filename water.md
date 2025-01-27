@@ -22,3 +22,6 @@
 - https://www.linkedin.com/feed/update/urn:li:activity:7251550666957955072/
 - https://www.linkedin.com/posts/mirzabeig_unity3d-gamedev-indiedev-activity-7251550666957955072-ZKub?utm_source=share&utm_medium=member_desktop
 - https://x.com/TheMirzaBeig/status/1845463785957417346
+
+### Blender Water
+- Pretty colored water - https://www.youtube.com/shorts/vVy2cMnXhD4

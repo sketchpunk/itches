@@ -7,6 +7,8 @@
 - https://sketches.isaacmason.com/sketch/intro
 - https://github.com/brunosimon/three.js-tsl-sandbox
 - https://github.com/gdquest-demos/godot-shaders
+- https://github.com/paper-design/shaders
+  - https://x.com/sdothaney/status/1882113262092976634
 
 ### Crazy Curvey Grid - Escher grid visualizer
 - https://x.com/unconed/status/1833618881799131352
@@ -15,3 +17,7 @@
 
 ### MaterialX
 - GLSL Bits : https://github.com/AcademySoftwareFoundation/MaterialX/tree/main/libraries/pbrlib/genglsl
+
+### Blur with Gamma Correct Lights
+- https://x.com/XorDev/status/1882941821388792027
+- https://www.shadertoy.com/view/XXyBRR

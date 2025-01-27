@@ -1,5 +1,8 @@
 # Maths
 
+### Collections of math examples
+- https://www.geogebra.org/u/daniel+mentrard
+
 ### Math as Code
 - https://github.com/Experience-Monks/math-as-code
 
@@ -117,6 +120,8 @@ cos(a) = cos(b)cos(c) + sin(b)sin(c)cos(α)
 ### Projective Transformation of 4 point plane
 - https://x.com/74WTungsteno/status/1863342529673855204
 
+### Primatives
+- https://mathigon.org/course/circles/spheres-cones-cylinders#sphere-volume
 
 ### Different Sine Shapes from polygon side count
 - https://1ucasvb.tumblr.com/post/42906053623/in-a-previous-post-i-showed-how-to-geometrically
@@ -125,6 +130,29 @@ cos(a) = cos(b)cos(c) + sin(b)sin(c)cos(α)
 - PPn(x) = sec((2/n)·arcsin(sin((n/2)·x)))   // N is side count
 - Psinn(x) = PPn(x)·sin(x)
 - Pcosn(x) = PPn(x)·cos(x)
+
+### Snap Vector to 45 Degree Angle
+- https://x.com/iquilezles/status/1878967410272965053
+
+### Circle from 3 Points
+- https://x.com/iquilezles/status/1875802416089886751
+- // Any three (non colinear) points define a circle
+// { .xy=center, .z=radius }
+vec3 getCircle( vec2 a, vec2 b, vec2 c )
+{
+    vec2 ba = b-a, cb = c-b, ac = a-c;
+    float de = ba.x*cb.y-ba.y*cb.x; // zero if colinear
+    vec2 ce = 0.5*(a+b+vec2(ba.y,-ba.x)*dot(ac,cb)/de);
+    return vec3( ce, length(a-ce) );
+}
+
+### Rotor and Motor
+- https://x.com/ENDESGA/status/1848252943553929291
+- https://endesga.xyz/
+- https://endesga.xyz/?page=vector
+- https://endesga.xyz/?page=rotor
+- https://endesga.xyz/?page=motor
+- https://endesga.xyz/?page=projection
 
 ### Non-Uniform Scaling - on Normals
 - https://x.com/lisyarus/status/1867287966881640472
@@ -162,6 +190,8 @@ void cofactor(const float src[16], float dst[16]) {
 }
 
 
+
+
 ### Four Bar Linkage
 - https://dynref.engr.illinois.edu/aml.html
 - https://www.youtube.com/watch?v=EBqrDj-Wkiw
@@ -180,3 +210,49 @@ void cofactor(const float src[16], float dst[16]) {
 - https://codepen.io/chrdiede/pen/WNWwwqj
 - https://cooperrc.github.io/engineering-dynamics/module_02/project.html
 - https://www.geogebra.org/m/BueCG9ch
+- https://www.softintegration.com/chhtml/toolkit/mechanism/fourbar/synth3pos.html
+- https://en.wikipedia.org/wiki/Slider-crank_linkage
+- https://en.wikipedia.org/wiki/Four-bar_linkage
+
+
+### Polyline Convex?
+    isConvex: function(resolver) {
+        if (!this.isClosed() || this.isDegenerate()) return null;
+
+        var nodes = utilArrayUniq(resolver.childNodes(this));
+        var coords = nodes.map(function(n) { return n.loc; });
+        var curr = 0;
+        var prev = 0;
+
+        for (var i = 0; i < coords.length; i++) {
+            var o = coords[(i+1) % coords.length];
+            var a = coords[i];
+            var b = coords[(i+2) % coords.length];
+            var res = vecCross(a, b, o);
+
+            curr = (res > 0) ? 1 : (res < 0) ? -1 : 0;
+            if (curr === 0) {
+                continue;
+            } else if (prev && curr !== prev) {
+                return false;
+            }
+            prev = curr;
+        }
+        return true;
+    },
+
+    /** Returns the 2D cross product of OA and OB vectors
+ * @param a A
+ * @param b B
+ * @param origin If not passed, defaults to [0,0]
+ * @returns magnitude of Z vector - A positive value, if OAB makes a counter-clockwise turn,
+ * negative for clockwise turn, and zero if the points are collinear.
+ * @example
+ * vecCross([2, 0], [0, 2]);   // returns 4
+ */
+export function vecCross(a: Vec2, b: Vec2, origin?: Vec2): number {
+  origin = origin || [0, 0];
+  const p = vecSubtract(a, origin);
+  const q = vecSubtract(b, origin);
+  return p[0] * q[1] - p[1] * q[0];
+}
