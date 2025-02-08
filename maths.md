@@ -134,6 +134,14 @@ cos(a) = cos(b)cos(c) + sin(b)sin(c)cos(α)
 ### Snap Vector to 45 Degree Angle
 - https://x.com/iquilezles/status/1878967410272965053
 
+### Matrices
+- https://github.com/mrdoob/three.js/blob/dev/src/nodes/accessors/AccessorsUtils.js#L16
+  - TBNViewMatrix = mat3( tangentView, bitangentView, normalView )
+  - positionView = vertex position in view space of the current rendered object
+  - positionViewDirection = /*@__PURE__*/ positionView.negate().toVarying( 'v_positionViewDirection' ).normalize().toVar( 'positionViewDirection' );
+  - parallaxDirection = positionViewDirection.mul( TBNViewMatrix )/*.normalize()*/
+  - parallaxUV = ( uv, scale ) => uv.sub( parallaxDirection.mul( scale ) );
+
 ### Circle from 3 Points
 - https://x.com/iquilezles/status/1875802416089886751
 - // Any three (non colinear) points define a circle

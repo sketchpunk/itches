@@ -26,3 +26,11 @@
 - https://x.com/trungduyng/status/1857002561498136702
 - https://www.youtube.com/watch?v=M4kMri55rdE
 - https://trungduyng.gumroad.com/l/animegrassblender
+
+### Wind on Grass
+- https://x.com/at010303/status/1883917202942005303
+- https://github.com/AT010303/Anime-Style-grass
+- https://anime-style-grass.vercel.app/
+
+### Grass tutorial
+- https://tympanus.net/codrops/2025/02/04/how-to-make-the-fluffiest-grass-with-three-js/

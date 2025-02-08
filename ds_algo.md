@@ -17,4 +17,9 @@
 
 ### Graph Traversal
 - https://www.quantamagazine.org/computer-scientists-establish-the-best-way-to-traverse-a-graph-20241025/
-- 
+
+### H3 Spatial Indexes
+- https://carto.com/blog/h3-spatial-indexes-10-use-cases
+
+### Light-weight loose octree
+- https://github.com/hyperfy-xyz/hyperfy/commit/da83b41a03f227cfbd2bfe07d29580620d1afe20#diff-a065af565e5212d8b955cefeb2a4b004f89ae6fdd315b8ff6698fda4b4629a60

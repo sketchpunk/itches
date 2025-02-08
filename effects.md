@@ -148,6 +148,11 @@
 - https://x.com/TheMirzaBeig/status/1876609860017774652
 - https://www.linkedin.com/posts/mirzabeig_gamedev-vfx-realtimevfx-activity-7283091088498683905-d1Io?utm_source=share&utm_medium=member_desktop
 
+
+### DBZ Aura 
+- https://www.artstation.com/artwork/lGZ45k
+- https://80.lv/articles/check-out-this-fanart-showing-majin-vegeta-s-explosion-in-dragon-ball-z/
+
 ### UV & Shader Tricks
 - Bulge, Pinch and Pan UV : https://x.com/Tuatara_Games/status/1854584610606530821
 - Polar UV : https://x.com/Tuatara_Games/status/1849511178373845268

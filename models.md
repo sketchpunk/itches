@@ -1,5 +1,9 @@
 # Models
 
+### Topology
+- https://x.com/pot4tochip/status/1884744295707447457
+- https://x.com/pot4tochip/status/1882605263724986624
+
 ### Matcap
 - https://github.com/nidorx/matcaps
 

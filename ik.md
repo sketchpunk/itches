@@ -6,6 +6,9 @@
 - https://x.com/ChristophSchadl/status/1821063356301644047
 - https://x.com/cyanpuppets/status/1859080401790321027  // NICE SKELETON DESIGN
 
+### CCD
+- https://github.com/mrdoob/three.js/blob/dev/examples/jsm/animation/CCDIKSolver.js
+- https://web.archive.org/web/20221206080850/https://sites.google.com/site/auraliusproject/ccd-algorithm
 
 ### Spline IK in Maya
 - https://x.com/cal4hike/status/1831325815814099383

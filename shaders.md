@@ -21,3 +21,9 @@
 ### Blur with Gamma Correct Lights
 - https://x.com/XorDev/status/1882941821388792027
 - https://www.shadertoy.com/view/XXyBRR
+
+### Simple toon Shader
+- https://www.linkedin.com/posts/mirzabeig_gamedev-vfx-realtimevfx-activity-7283091088498683905-d1Io?utm_source=social_share_sheet&utm_medium=member_desktop_web
+
+### Car Paint Blender
+- https://x.com/thomas__marcos/status/1885353626224263443

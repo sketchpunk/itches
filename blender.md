@@ -5,6 +5,11 @@
 - Import MMD : https://github.com/UuuNyaa/blender_mmd_tools
 - UV Squares ( Straighten curved UVs ): https://github.com/Radivarig/UvSquares
 
+### Tutorial 3D Room Scene - From Scratch - Day/Nite Cycles in ThreeJS
+- https://github.com/andrewwoan/sooahkimsfolio
+- https://www.youtube.com/watch?v=AB6sulUMRGE
+- https://x.com/andrewwoan/status/1886881353591087527
+
 ### AutoUV Free Plugin
 - https://blendermarket.com/products/free-addon-autouv/?ref=794
 
@@ -41,3 +46,7 @@
 
 ### Small node on how to use new Transparent BSDFs with cool hair example
 https://x.com/tinynocky/status/1863937723817669029
+
+
+### Awesome Hex Sphere Tutorial
+- https://x.com/DavidNyann/status/1885303192432632156
