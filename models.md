@@ -51,6 +51,9 @@
 - https://x.com/ushadersbible/status/1866310885091758134
 - https://jettelly.com/store?format=Game+Art+Essentials
 
+### Gumroad
+- https://asapberg.gumroad.com/
+
 ### AnimProps
 - https://animprops.com/product/jinx-rig-free/
 - https://animprops.com/product/jinx-character-rig-blender/

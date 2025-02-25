@@ -6,6 +6,8 @@
 - https://x.com/mastjie/status/1791815675331395744
 - https://github.com/mastjie-dev/volume-rendering
 
+- https://www.vertexfragment.com/ramblings/volumetric-cloud-upsampling/
+
 ### Clouds with TSL
 - https://x.com/NikLever/status/1879203191960867260
 - https://x.com/NikLever/status/1883209540600291717

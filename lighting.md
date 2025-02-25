@@ -16,6 +16,9 @@
 - https://x.com/XorDev/status/1820886173839159381
 - https://x.com/XorDev/status/1821051533598785581
 
+### NPR Shaders
+- https://typhomnt.github.io/post/blender_npr/
+
 ### Global illumination - Radiance Cascades
 - https://x.com/yaazarai/status/1818903149975159173
 - https://github.com/Yaazarai/GMShaders-Radiance-Cascades

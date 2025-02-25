@@ -45,7 +45,22 @@
 - https://github.com/nilaysavant/bevy_pmetra
 - https://pmetra.nilay.cc/
 
-
 ### AST - Abstract Syntax Trees
 - https://jotadeveloper.medium.com/abstract-syntax-trees-on-javascript-534e33361fc7
 - https://dev.to/marvinjude/abstract-syntax-trees-and-practical-applications-in-javascript-4a3
+
+### Deploy Threejs App to Github Pages
+- https://www.youtube.com/watch?v=ygdbUEsAYyQ
+
+
+### Screen Sharing Open Source App
+- https://x.com/tom_doerr/status/1893686796225036656
+- https://github.com/mistweaverco/bananas
+
+### Open Source Docusign
+- https://x.com/tom_doerr/status/1893732713800020079
+- https://github.com/docusealco/docuseal
+
+### Open source invoice webapp
+- https://x.com/GithubProjects/status/1893204664352678004
+- https://github.com/al1abb/invoify

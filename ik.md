@@ -71,3 +71,18 @@
 ### Deformable Mesh
 - https://x.com/cloudofoz/status/1870122139606524225
 - https://github.com/cloudofoz/godot-deformablemesh
+
+
+### Spline + Ring IK
+- https://www.linkedin.com/posts/arturo-coso-aa814252_maya-rigging-techart-ugcPost-7294991065877467138-IY7o?utm_source=share&utm_medium=member_desktop
+- https://arturocoso.gumroad.com/l/SplineWeights
+
+
+### Mechanical Claw
+- https://x.com/DemNikoArt/status/1893716301459124324
+- https://www.youtube.com/watch?v=nyC57_HN6B0
+
+
+### Laplacian Mesh And Animation Deformation
+- https://www.youtube.com/watch?v=ZloIm02ZlAg
+- https://www.linkedin.com/posts/jeromeeippers_animation-animation3d-numpy-activity-7299853598350278659-chIW?utm_source=share&utm_medium=member_desktop&rcm=ACoAABCBdyUBKZI3Bi-E7poUb5-kzZgKKi5j0RA

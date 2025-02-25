@@ -154,6 +154,10 @@ vec3 getCircle( vec2 a, vec2 b, vec2 c )
     return vec3( ce, length(a-ce) );
 }
 
+### Geomatric Spirals
+- https://x.com/74WTungsteno/status/1894024772071129530
+- https://www.tungsteno.io/post/exa-spiral_complex_geometric_sum/
+
 ### Rotor and Motor
 - https://x.com/ENDESGA/status/1848252943553929291
 - https://endesga.xyz/

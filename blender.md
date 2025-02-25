@@ -3,7 +3,15 @@
 ### Plugins
 - Import SFM MDL : https://github.com/REDxEYE/SourceIO
 - Import MMD : https://github.com/UuuNyaa/blender_mmd_tools
+  - https://extensions.blender.org/add-ons/mmd-tools/
+  - https://github.com/UuuNyaa/blender_mmd_tools
 - UV Squares ( Straighten curved UVs ): https://github.com/Radivarig/UvSquares
+- PolyQuilt : https://blenderaddons.store/b/polyquilt-free-addon-for-retopology-in-blender
+  - Fork: https://extensions.blender.org/add-ons/polyquilt-fork/
+- Source Import : https://github.com/REDxEYE/SourceIO
+- XPS Import : https://github.com/johnzero7/XNALaraMesh
+  - https://github.com/Valerie-Bosco/XNALara-io-Tools
+
 
 ### Tutorial 3D Room Scene - From Scratch - Day/Nite Cycles in ThreeJS
 - https://github.com/andrewwoan/sooahkimsfolio
