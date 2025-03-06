@@ -8,3 +8,6 @@
 ### Simple Charactger Controller
 - https://github.com/gkjohnson/three-mesh-bvh/blob/master/example/characterMovement.js
 - https://gkjohnson.github.io/three-mesh-bvh/example/bundle/characterMovement.html
+
+### Unreal Camera Controller with Modifers
+- https://www.youtube.com/watch?v=SLdtwDsOv-o

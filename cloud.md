@@ -17,3 +17,8 @@
 ### Awesome Skybox with cloud coverage
 - https://takram-design-engineering.github.io/three-geospatial/?path=/story/clouds-wip-clouds--basic
 - https://x.com/shotamatsuda/status/1883235119181492304
+
+
+### R3F implementation of geospatial volumetric clouds
+- https://x.com/shotamatsuda/status/1893525887196504421
+- https://github.com/takram-design-engineering/three-geospatial/tree/main/packages/clouds

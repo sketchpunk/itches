@@ -25,3 +25,8 @@
 
 ### Blender Water
 - Pretty colored water - https://www.youtube.com/shorts/vVy2cMnXhD4
+- https://www.patreon.com/posts/made-anime-ocean-114856278?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=web_share
+
+
+### Nice toony Water in React 3js
+- https://tympanus.net/codrops/2025/03/04/creating-stylized-water-effects-with-react-three-fiber/

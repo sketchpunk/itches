@@ -12,11 +12,13 @@
 - https://x.com/HakanssonAugust/status/1800141027548016958
 - https://github.com/ColinLeung-NiloCat/UnityURP-MobileDrawMeshInstancedIndirectExample
 
+### Nice Grass system
+- https://ko-fi.com/Post/da-grass-a-custom-grass-system-implementation-in-N4N81B619G
+- https://x.com/XAFODIAN/status/1894638951186518250`
 
 ### 3JS grass
 - https://x.com/th_ebenezer/status/1833547663490617398
 - https://x.com/i/status/1833547663490617398
-
 
 ### billboard Leaves on Tree
 - https://x.com/Hirourk/status/1793764281739297100

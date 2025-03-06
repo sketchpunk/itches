@@ -3,6 +3,9 @@
 ### General Dual Grid Examples
 - https://x.com/bjornornorn/status/1855971006482968714
 
+### Surface Nets and Trilinear Mapping
+- https://bonsairobo.medium.com/smooth-voxel-mapping-a-technical-deep-dive-on-real-time-surface-nets-and-texturing-ef06d0f8ca14
+
 ### Soda Can
 - https://x.com/PavelBoytchev/status/1808130140859232716
 - https://boytchev.github.io/3d-assets/online/drink-can.html
@@ -24,6 +27,14 @@
 - https://x.com/flobit_dev/status/1835782921812169075
 - https://github.com/flo-bit/flo-bit.github.io
 - https://github.com/flo-bit/tiny-planets/
+
+### Surface Nets
+- https://bonsairobo.medium.com/smooth-voxel-mapping-a-technical-deep-dive-on-real-time-surface-nets-and-texturing-ef06d0f8ca14
+- https://x.com/teamldm/status/1896211283718111287
+
+- SDFs to Mesh. Small Code: https://github.com/bonsairobo/fast-surface-nets-rs
+
+- Terrain Gen : https://github.com/EthanHermsey/Nature 
 
 ### Turn quad into circle, cone or cylinder
 - https://x.com/TheMirzaBeig/status/1828047197738344724

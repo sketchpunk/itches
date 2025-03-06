@@ -20,3 +20,7 @@
 - https://github.com/matthias-research/pages/blob/master/tenMinutePhysics/22-rigidBodies.html
 
 - https://www.youtube.com/watch?v=4r_EvmPKOvY
+
+
+### Orbit, Seeking, Steering
+- https://natureofcode.com/autonomous-agents/

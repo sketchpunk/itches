@@ -134,6 +134,11 @@ cos(a) = cos(b)cos(c) + sin(b)sin(c)cos(α)
 ### Snap Vector to 45 Degree Angle
 - https://x.com/iquilezles/status/1878967410272965053
 
+### Smoothness Factor
+- https://x.com/XorDev/status/1895111604259246434
+- tanh( x * k )
+- tanh = 1 - 2 / ( 1 + exp( 2 * x ) )
+
 ### Matrices
 - https://github.com/mrdoob/three.js/blob/dev/src/nodes/accessors/AccessorsUtils.js#L16
   - TBNViewMatrix = mat3( tangentView, bitangentView, normalView )

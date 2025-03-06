@@ -15,6 +15,10 @@
 - https://gitlab.com/unconed/use.gpu/-/blob/master/packages/app/src/pages/shader/droste.tsx
 - https://usegpu.live/demo/shader/droste
 
+### Toon Gem
+- https://x.com/AcarcaneCG/status/1894942321109786674
+- https://www.youtube.com/watch?v=mQPFjzAgGQo
+
 ### MaterialX
 - GLSL Bits : https://github.com/AcademySoftwareFoundation/MaterialX/tree/main/libraries/pbrlib/genglsl
 
@@ -27,3 +31,6 @@
 
 ### Car Paint Blender
 - https://x.com/thomas__marcos/status/1885353626224263443
+
+### Stripe Pattern
+- https://x.com/Zxyowo/status/1894721102187757775
