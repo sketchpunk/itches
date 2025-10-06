@@ -19,3 +19,19 @@
 
 ### curve functions
 - https://x.com/pickover/status/1869753767211704321
+
+### Curve mesh on a curve spline
+- https://x.com/leondenise/status/965584020989005824
+- https://github.com/leon196/CurveModifier
+
+### Finding Bounding Box of bezier curve
+- https://x.com/FreyaHolmer/status/1444755552777670657
+
+### Arc Wave
+- https://x.com/_baku89/status/1445918181848092674
+
+### Visual if different curves
+- https://x.com/FreyaHolmer/status/1457831995799654403
+
+### Bezier Fitting
+- https://raphlinus.github.io/curves/2021/03/11/bezier-fitting.html

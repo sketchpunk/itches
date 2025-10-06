@@ -50,3 +50,15 @@
 
 ### Cool demo if Adobe's Project Neo
 - https://x.com/iquilezles/status/1863672232259752251
+
+### Toony Furnature Creator
+- https://x.com/KenneyNL/status/1902671890788802661
+
+### Sun set UI
+- https://x.com/DMeville/status/1905059501587488910
+
+### 3js node editor
+- https://x.com/bandinopla/status/1904217773749793124
+
+### Beautiful Gizmos
+- https://x.com/RipperGFX/status/1909196881248539119

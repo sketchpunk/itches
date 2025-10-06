@@ -1,5 +1,9 @@
 # Procedural Generation
 
+### WFC Island Generator with triangle tiles
+- https://github.com/Pierre-Terdiman/WFC_Explorer
+- https://x.com/PierreTerdiman/status/1935047242135519607
+
 ### General Dual Grid Examples
 - https://x.com/bjornornorn/status/1855971006482968714
 
@@ -27,6 +31,11 @@
 - https://x.com/flobit_dev/status/1835782921812169075
 - https://github.com/flo-bit/flo-bit.github.io
 - https://github.com/flo-bit/tiny-planets/
+
+### Mesh Line
+- https://x.com/makio64/status/1963160279795065084
+  - https://meshline.makio.io/
+  - https://github.com/Makio64/makio-meshline
 
 ### Surface Nets
 - https://bonsairobo.medium.com/smooth-voxel-mapping-a-technical-deep-dive-on-real-time-surface-nets-and-texturing-ef06d0f8ca14
@@ -67,10 +76,17 @@ return float3(x, position.y * height, z);
 - https://shaderbits.com/blog/octahedral-impostors
 - https://gamedev.stackexchange.com/questions/169508/octahedral-impostors-octahedral-mapping
 
+- https://x.com/BrianBreiholz/status/1905759745706758198
+- https://github.com/Ctrlmonster/three-octahedral-impostor/
+
 ### Planet Gen 
 - https://dgreenheck.github.io/threejs-procedural-planets/
 - https://x.com/dangreenheck/status/1854255756050121005
 - Awesome Blender Procedural Planet : https://x.com/cmzw_/status/1865769276122231263
+
+### Procedural Trees
+- https://www.eztree.dev/
+- https://github.com/dgreenheck/ez-tree
 
 ### Fracture Mesh ( intresting insights )
 - https://youtu.be/O8brssfgtWc?si=rDoeJKucr6fmWtPQ
@@ -93,3 +109,30 @@ I’m creating the meshes this way directly. I decide how tall each rock is, the
 - https://x.com/boris_brave/status/1866166898309648516
 - https://zzyzek.github.io/PunchOutModelSynthesisPaper/
 - https://github.com/zzyzek/PunchOutModelSynthesis
+
+### Irregular Grids with a Grid
+- https://x.com/jakubtomsu_/status/1902122605961695548
+- https://x.com/jakubtomsu_/status/1902406237091766590
+
+### Minecraft / Voxels
+- https://www.youtube.com/watch?v=tsOTCn0nROI
+- https://github.com/dgreenheck/minecraft-threejs-clone
+
+### Model Synthesis / Wave function collapse WFC
+- https://www.boristhebrave.com/2021/10/26/model-synthesis-and-modifying-in-blocks/
+- https://www.boristhebrave.com/2020/04/13/wave-function-collapse-explained/
+
+### Marching Cubes / Squares
+- asymptotic decider : https://x.com/boris_brave/status/1478042985719861255
+  - https://www.boristhebrave.com/2022/01/03/resolving-ambiguities-in-marching-squares/
+
+### Maze Generator
+- https://x.com/CasualEffects/status/957520581527855104
+  - https://github.com/morgan3d/misc/blob/master/jsmaze/maze.js
+  - VERY AWSOME https://morgan3d.github.io/misc/jsmaze/index.html
+
+### Island
+- https://x.com/bjornornorn/status/1581277292097310720
+
+### Cave Generator
+- https://www.boristhebrave.com/2023/11/19/how-does-cave-glade-generator-work/

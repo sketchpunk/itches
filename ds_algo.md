@@ -23,3 +23,20 @@
 
 ### Light-weight loose octree
 - https://github.com/hyperfy-xyz/hyperfy/commit/da83b41a03f227cfbd2bfe07d29580620d1afe20#diff-a065af565e5212d8b955cefeb2a4b004f89ae6fdd315b8ff6698fda4b4629a60
+
+### Very Fast BVH with Morton Codes
+- https://www.youtube.com/watch?v=LAxHQZ8RjQ4
+- https://matthias-research.github.io/pages/tenMinutePhysics/24-morton.pdf
+- https://github.com/matthias-research/pages/blob/master/tenMinutePhysics/24-morton.html
+- https://matthias-research.github.io/pages/tenMinutePhysics/index.html
+
+### Sweep and Prune Collision
+- https://www.youtube.com/watch?v=MKeWXBgEGxQ
+
+
+### Time Slicing for ray cast searching, also a path
+- https://x.com/TheAllenChou/status/1398172049676193794
+- https://allenchou.net/2021/05/time-slicing/
+
+### Linked List for Graphs
+- https://x.com/d4rsh_tw/status/1971947313900974104

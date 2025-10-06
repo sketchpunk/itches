@@ -52,7 +52,6 @@
 ### Deploy Threejs App to Github Pages
 - https://www.youtube.com/watch?v=ygdbUEsAYyQ
 
-
 ### Screen Sharing Open Source App
 - https://x.com/tom_doerr/status/1893686796225036656
 - https://github.com/mistweaverco/bananas
@@ -64,3 +63,17 @@
 ### Open source invoice webapp
 - https://x.com/GithubProjects/status/1893204664352678004
 - https://github.com/al1abb/invoify
+
+
+### Art Apps 
+- https://github.com/KenneyNL/Adobe-Alternatives
+
+### Texture UV Grid Generator
+- https://x.com/SergiCaballer/status/1394184072700723202
+- https://uvchecker.vinzi.xyz/
+
+### Quick stitch meshes to selected quads ( REALLY COOL IDEA )
+- https://vaughan3d.gumroad.com/l/HDfFv
+
+### Icon
+- https://getstack.dev/category/iconset

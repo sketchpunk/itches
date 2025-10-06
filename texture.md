@@ -10,3 +10,6 @@
 - https://jellyfish0.itch.io/
 - https://govfx.itch.io/
 - https://kenney.nl/assets/particle-pack
+
+### Lego Greebles Normal Texture
+- https://x.com/PolygonCherub/status/1743862782137655538

@@ -24,6 +24,16 @@
 - https://cgcookie.com/downloads/baker-rig
 - https://kenney.nl/assets/pirate-kit
 - https://freestylized.com/ ( Has great stylized Skyboxes & Textures )
+- https://agora.community/assets
+- Storm : https://rianbrand.gumroad.com/l/vfdej
+- Tooney Octopus : https://mattiaslind.gumroad.com/l/nsorh
+- Multiverse : https://drive.google.com/drive/folders/1-dW0GpgelVhsBCzV3qjxTtC7wcdvK5bT
+- Stoff - https://itch.io/c/3775364/free-for-personal-use-game-assets
+- Cool mech - https://trevital.gumroad.com/l/ZyNEq?layout=profile
+
+### Animations
+- https://quaternius.itch.io/universal-animation-library
+- https://www.unrealengine.com/en-US/blog/game-animation-sample
 
 ### Mark Lambert's Lighting Setup
 - https://ko-fi.com/s/f51fe0576c

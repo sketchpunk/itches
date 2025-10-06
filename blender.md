@@ -11,7 +11,21 @@
 - Source Import : https://github.com/REDxEYE/SourceIO
 - XPS Import : https://github.com/johnzero7/XNALaraMesh
   - https://github.com/Valerie-Bosco/XNALara-io-Tools
+- Bone Tools : https://github.com/namakoshiro/blender-bone-tools
+  - https://x.com/namakoshiro/status/1900468044079731199
+- Lots of UV gen/fixing options: https://extensions.blender.org/add-ons/mio3-uv/
 
+### Tips
+- Smooth Weights : https://x.com/TheRoyalSkies/status/1933286379133231403
+- Paint Weights threw : https://x.com/TheRoyalSkies/status/1933605159440978116
+
+### Tutorial
+- Lips : https://x.com/Danny_Mac3D/status/1337388073873780738
+  - https://www.youtube.com/watch?v=Ms1vX1qi8Pg&feature=youtu.be
+
+### How To
+- Model Teach & Tongue : https://x.com/MrZing07/status/1971926667196354635
+- Skirt : https://x.com/Sidness_Art/status/1970847063026839902
 
 ### Tutorial 3D Room Scene - From Scratch - Day/Nite Cycles in ThreeJS
 - https://github.com/andrewwoan/sooahkimsfolio
@@ -58,3 +72,13 @@ https://x.com/tinynocky/status/1863937723817669029
 
 ### Awesome Hex Sphere Tutorial
 - https://x.com/DavidNyann/status/1885303192432632156
+
+### SubD Boolean Workflow
+- https://x.com/FR3NKD/status/1902371952494338215
+
+### Retopology and redirect loop
+- https://x.com/FlippedNormals/status/1904950986285719614
+- https://blog.flippednormals.com/amazing-character-retopology-tip-for-better-topology/
+
+### Snow / Dust
+- https://x.com/JanvandenHemel/status/1688243370252980225

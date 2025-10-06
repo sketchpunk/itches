@@ -11,3 +11,7 @@
 
 ### Unreal Camera Controller with Modifers
 - https://www.youtube.com/watch?v=SLdtwDsOv-o
+
+
+### Good Visual of AIM and Movement
+- https://x.com/PolygonCherub/status/1711095923021889678

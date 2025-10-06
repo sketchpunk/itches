@@ -39,6 +39,13 @@
 - https://x.com/ufg2011/status/1819329710499025191
 - https://www.misclab.net/#stars
 
+### Morph Shapes
+- https://x.com/techartist_/status/1912132028406866378
+- https://codepen.io/VoXelo/full/ByyBqVX
+
+- https://x.com/techartist_/status/1910325734242951633
+- https://codepen.io/VoXelo/full/ByagmoZ
+
 ### Lorenz attractor.
 https://x.com/jcponcemath/status/1818884235199234453
 
@@ -53,3 +60,30 @@ https://x.com/jcponcemath/status/1818884235199234453
 - https://x.com/bruno_simon/status/1805948277092745537
 - https://x.com/bruno_simon/status/1798348937201668267
 - https://x.com/bruno_simon/status/1798382644977414306
+
+### Particles and lattices structures
+- https://x.com/techartist_/status/1909601475984052435
+- https://codepen.io/VoXelo/full/mydYWMa
+
+### Bugs, Liquid like, Attraction
+- https://mameson.com/experiment/glsl/nez_11/nez_11.html
+
+### Fluid Ball
+- Ball : https://x.com/LeonWohlgemuth/status/1967321006651101499
+  - https://github.com/matsuoka-601/WaterBall
+
+- https://x.com/LeonWohlgemuth/status/1964093759475404811
+  - https://github.com/PavelDoGreat/WebGL-Fluid-Simulation
+
+### Various Attractors
+- https://blog.shashanktomar.com/posts/strange-attractors
+
+### Shapes
+- https://x.com/razoic/status/1959159224191131972
+  - https://helixprojectai-code.github.io/star-dissolve-demo/?v=ga1
+  - https://github.com/helixprojectai-code/star-dissolve-demo
+
+### Galaxy
+- https://www.reddit.com/r/threejs/comments/1npbhu1/i_open_sourced_my_galaxy_shader_it_should_be/?%24deep_link=true&correlation_id=50848704-6dac-4bfd-a2ac-8e034eb8d4e4&post_fullname=t3_1npbhu1&post_index=0&ref=email_digest&ref_campaign=email_digest&ref_source=email&utm_content=post_title&%243p=e_as&_branch_match_id=776980429946366153&utm_medium=Email%20Amazon%20SES&_branch_referrer=H4sIAAAAAAAAA22Q3U7DMAxGn6a729Y12aiQJoQEvIaVNl4byJ8cR91ueHZcBlwhJdLR%2BeLYycycy%2BN%2BT2it453Jeedd%2FNir%2FNR0WuUzgikbwURuctF4qOTP81rVqOeme5O1LMvup35MQQTJ5pkQ34uQuICRVzzEPMz1IOQgZYxQUqURLYQbTMab6w3KbCwSOBZK1VsYcO2ipNGx0xYxwzpgo16YqkSnMRGhN%2BxSBGfFH9te9w%2Bt3p6sGbd6uNit6YR6bJXGobcatdTlVBgu1ftoAq7XKfgb7x66aPEqSSuC8CKEwTgP1k1Y%2BC5hNCEbN8X%2F0%2Fv7fjORlQOMKbJ8iNjvNuzY4%2BZTjiORixMMlJaCdH61E34ByCDdZKABAAA%3D
+  - https://github.com/AmitDigga/threejs-galaxy-shader
+  - https://www.npmjs.com/package/threejs-galaxy-shader

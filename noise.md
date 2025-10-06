@@ -3,10 +3,15 @@
 ### Libraries
 - https://github.com/keijiro/NoiseShader
 - https://github.com/stegu/webgl-noise
+- Tilable Noise : https://github.com/Bubblebird-Studio/NoiseGenerator
 
 ### Value erosion
 - https://x.com/Tuatara_Games/status/1859658039172923439
 - en = saturate( ( sat(n)-sat(erosionAmt) ) / ( softnessAmt=0.5) )
+
+### Dot Noise
+- https://x.com/XorDev/status/1964083694924140735
+  - https://mini.gmshaders.com/p/dot-noise
 
 ### Equirectangular textures
 - https://x.com/PavelBoytchev/status/1799750298598269282
@@ -65,3 +70,16 @@ And that minDist is found with an algo from
 - https://x.com/hippowombat/status/1864030770345459932
 - Inspired by @NoMansSky 's GDC talk on noise layering
 - https://www.youtube.com/watch?si=rDy-bBiZexrUGoEa&v=C9RyEiEzMiU&feature=youtu.be
+
+### Interleaved Gradient Noise
+- https://x.com/XorDev/status/1907524122151731254
+- https://blog.demofox.org/2022/01/01/interleaved-gradient-noise-a-different-kind-of-low-discrepancy-sequence/
+- Dithering with IGN
+vec2 p=ceil(FC.xy*.1);o+=step(fract(52.9829189*fract(.06711056*p.x+.00583715*p.y)),p.y/r.y/.1);
+
+### Shard Noise - For smokey , foggy 
+- https://x.com/ENDESGA/status/1726402993938104493
+- https://www.shadertoy.com/view/dlKyWw
+
+### Multi Sin Noise
+- https://x.com/XorDev/status/1731771853394292774

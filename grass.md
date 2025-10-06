@@ -36,3 +36,13 @@
 
 ### Grass tutorial
 - https://tympanus.net/codrops/2025/02/04/how-to-make-the-fluffiest-grass-with-three-js/
+
+- https://x.com/VFX_Therapy/status/1960618303514402846
+
+### Moss
+- https://x.com/Foyezes/status/1904614008134787191
+- https://www.foyez.es/blog/Adding%20Snow%20and%20Moss%20Using%20Normal%20Map%20in%20Godot
+
+### Breath of the wild grass in 3js
+- https://smythdesign.com/blog/stylized-grass-webgl/
+- https://github.com/James-Smyth/three-grass-demo

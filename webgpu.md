@@ -19,3 +19,13 @@
 ### Engines
 - https://docs.swmansion.com/TypeGPU/
 - https://github.com/software-mansion/TypeGPU
+
+### Maths
+https://github.com/greggman/wgpu-matrix/
+
+
+### TSL like System
+Embeddable Syntax Tree
+JavaScript AST for transpilation.
+- https://github.com/software-mansion/TypeGPU/tree/release/packages/tinyest-for-wgsl
+- https://github.com/software-mansion/TypeGPU/tree/release/packages/tinyest

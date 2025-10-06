@@ -1,5 +1,8 @@
 # Terrains
 
+### Sphere Voxel Planet
+- https://www.bowerbyte.com/posts/blocky-planet/
+
 ### Raymarched Terrain
 - https://x.com/_ms0g/status/1841532759296155669
 - https://github.com/ms0g/terrain
@@ -13,6 +16,10 @@
 
 ### Cubic Quad Trees
 - https://github.com/kenjinp/geomancer/commit/d3cdc04553055cb8fc9a5ab5b23fef6a0737a24b
+
+### Sand
+- https://x.com/Shadertoy/status/1963323680630706243 
+  - https://www.shadertoy.com/view/WdGcDt
 
 ### Terrain Tiles Id want to make
 - https://x.com/Just_Game_Dev
@@ -30,3 +37,4 @@
 - https://x.com/Just_Game_Dev/status/1535752329504378880  xx
 - https://x.com/Just_Game_Dev/status/1476644857259114496  xx
 - https://x.com/Just_Game_Dev/status/1512900624081371153  xx
+- https://x.com/Just_Game_Dev/status/1715434923346035176  !!

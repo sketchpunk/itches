@@ -19,3 +19,19 @@
 ### Godot ProceduralSkyMaterial
 - https://github.com/godotengine/godot/pull/101973/files#diff-d5856a06629808040cd62db3068860792e1d9085803512467c8da4cd4f4aaa4e
 - https://www.youtube.com/watch?v=SzNmHPr4vf8
+
+### Amazing Star Cloud
+- https://galaxyshader.surge.sh/
+- https://x.com/FaissalHajar/status/1899150225656156611
+- https://www.shadertoy.com/view/XlfGRj
+
+### Water & Sky in TSL
+- https://mameson.com/experiment/glsl/clouded_mirror_2/clouded_mirror_2.html
+
+### Sky ray marching
+- https://x.com/lisyarus/status/1397636809417498630
+- https://www.shadertoy.com/view/NtfGWN
+
+### Sparky Stars : Voronoi noise  - Minkowski distance 
+- https://x.com/TheMirzaBeig/status/1734221833061228801
+- https://www.shadertoy.com/view/dlKBzK

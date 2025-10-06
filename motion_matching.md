@@ -11,3 +11,9 @@
 - https://github.com/JLPM22/MotionMatching/tree/2985170ffef56e118707127e9fd5984991a8b013
 - https://github.com/JLPM22/MotionMatching/blob/2985170ffef56e118707127e9fd5984991a8b013/com.jlpm.motionmatching/Runtime/CharacterController/PathCharacterController.cs#L37
  - It sims the movement forward DT at a time
+
+
+ ### Learned Motion 
+ - https://x.com/80Level/status/1899437650962256248
+ - https://80.lv/articles/create-realistic-movements-with-learned-motion-matching-in-unity/
+ - https://www.youtube.com/watch?v=2DvgXGrl_1w&t=26s

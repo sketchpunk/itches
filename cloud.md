@@ -22,3 +22,14 @@
 ### R3F implementation of geospatial volumetric clouds
 - https://x.com/shotamatsuda/status/1893525887196504421
 - https://github.com/takram-design-engineering/three-geospatial/tree/main/packages/clouds
+
+### Stylized Clouds
+- https://x.com/Le_x_Lu/status/1906454909823918374
+- https://www.youtube.com/watch?v=7jBFuFnE92I
+
+### Ghibli Clouds
+- https://x.com/StudioAileron/status/1748393208365908450
+- https://www.youtube.com/watch?v=jA1xNUIiPgg&feature=youtu.be
+
+### Energy Cloud
+- https://x.com/raico222/status/1967658185302609993

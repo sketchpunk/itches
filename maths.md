@@ -120,6 +120,11 @@ cos(a) = cos(b)cos(c) + sin(b)sin(c)cos(α)
 ### Projective Transformation of 4 point plane
 - https://x.com/74WTungsteno/status/1863342529673855204
 
+### Color Wheel
+- https://x.com/XorDev/status/1958961505531007107
+o=(FC.xy*2.-r)/r.y*mat4x2(-8,0,4,7,4,-7,0,0)*.1;
+o+=sqrt(.9-dot(o,o));
+
 ### Primatives
 - https://mathigon.org/course/circles/spheres-cones-cylinders#sphere-volume
 
@@ -134,10 +139,20 @@ cos(a) = cos(b)cos(c) + sin(b)sin(c)cos(α)
 ### Snap Vector to 45 Degree Angle
 - https://x.com/iquilezles/status/1878967410272965053
 
+### Distributing points on a sphere
+- https://x.com/pikuma/status/1959658783375872181
+  - https://www.johndcook.com/blog/2023/08/12/fibonacci-lattice/
+
 ### Smoothness Factor
 - https://x.com/XorDev/status/1895111604259246434
 - tanh( x * k )
 - tanh = 1 - 2 / ( 1 + exp( 2 * x ) )
+
+### Min Max Gimbal Lock
+- https://gist.github.com/andrewnc/d6fc93751cdc123968a363258d810a43
+
+### Round Sine Waves
+- https://x.com/XorDev/status/1963392436471791702
 
 ### Matrices
 - https://github.com/mrdoob/three.js/blob/dev/src/nodes/accessors/AccessorsUtils.js#L16
@@ -206,9 +221,6 @@ void cofactor(const float src[16], float dst[16]) {
   dst[15] =  minor(src, 0, 1, 2, 0, 1, 2);
 }
 
-
-
-
 ### Four Bar Linkage
 - https://dynref.engr.illinois.edu/aml.html
 - https://www.youtube.com/watch?v=EBqrDj-Wkiw
@@ -273,3 +285,39 @@ export function vecCross(a: Vec2, b: Vec2, origin?: Vec2): number {
   const q = vecSubtract(b, origin);
   return p[0] * q[1] - p[1] * q[0];
 }
+
+## Data Smoothin
+- https://lisyarus.github.io/blog/posts/exponential-smoothing.html
+- https://theorangeduck.com/page/perfect-tracking-springs
+- https://www.alanzucconi.com/2022/07/24/kalman-gain/
+
+### Perspective Camera Kooima Generalized Projection Formulation
+- https://x.com/threejs/status/1392786379193597953
+- https://github.com/mrdoob/three.js/pull/21825
+
+
+### Hemisphere stampling, Uniform and cosine-weighted distribution
+- https://x.com/turanszkij/status/1404746068651294720
+
+### Matrix Color Formula
+- https://x.com/iquilezles/status/1440847977560494084
+
+### Four Corner interpolation with exp / log map
+- https://x.com/keenanisalive/status/1440432175317340170
+- https://15462.courses.cs.cmu.edu/fall2021content/exercises/Exercises06.pdf
+- https://15462.courses.cs.cmu.edu/fall2021content/exercises/Solutions06.pdf
+
+### Linear Lerp Quaternions
+- https://x.com/ENDESGA/status/1733967648847991101
+- https://www.shadertoy.com/view/dtVfRy
+vec4 rotNlerp(vec4 Q, vec4 R, float t) {
+    // chooses the shortest path
+    return normalize(mix(Q,((dot(Q,R) < 0.) ? -R : R),t));
+}
+
+### Quaternion lots of info 
+- https://kyndinfo.notion.site/Quaternion-b1431a8f16de438fb63737edd405619f?pvs=4
+
+
+### Camera FOV & Position very smooth Updating
+- https://github.com/pygfx/pygfx/blob/769dc54a44bcf2f31fbd9f9276171890c11e57f7/pygfx/controllers/_base.py#L552

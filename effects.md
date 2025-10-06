@@ -33,12 +33,22 @@
 - https://x.com/tea_VFX/status/1820504916634566681
 - https://x.com/Tea_VFX/status/1820569843177054474
 
+### Fire/Energy Animating Wreath braiding
+- https://x.com/PavelBoytchev/status/1901710326237692108
+- https://github.com/boytchev/etudes/blob/master/threejs/wreath-braiding.html
+- https://boytchev.github.io/etudes/threejs/wreath-braiding.html
+
 ### Portal Effect
 - https://x.com/heytibo/status/1815290593506927031
 
 ### Cool Effect can be used for smoke, fire, maybe lightning
 - https://x.com/bruno_simon/status/1801635912918462562
 - https://x.com/cmzw_/status/1799648702338158747
+
+### Blackhole
+- https://sketches.sarlloc.xyz/sketch/blackhole
+- https://x.com/sarlloc/status/1901682563502031077
+- https://github.com/zoyron/sketches/blob/main/src/data/sketches/BlackHole.tsx
 
 ### Simple Shield
 - https://github.com/bhushan6/interactive-shield
@@ -68,9 +78,17 @@
 ### Glint / Sparkle
 - https://x.com/babylonjs/status/1847321746929549507
 - https://playground.babylonjs.com/frame.html#R7GMF3
+- https://farazzshaikh.com/demos/demo-2025-car-paint
+- https://github.com/Faraz-Portfolio/demo-2025-car-paint
+
+### Rain
+- https://farazzshaikh.com/demos/demo-2023-rain-puddle
+- https://github.com/Faraz-Portfolio/demo-2023-rain-puddle
 
 ### Model Outlines
 - https://ameye.dev/notes/rendering-outlines/
+- https://x.com/alexanderameye/status/1427278221620310019
+- Noise : https://x.com/TheMirzaBeig/status/1725790181578449278
 
 ### Fireflys
 - https://x.com/th_ebenezer/status/1850947389345206381
@@ -84,6 +102,14 @@
 
 ### Great Puddle & Fog example with simple UI to draw & move them
 - https://x.com/Tuatara_Games/status/1805662246779109387
+
+### Amazing vortex inside Glass Sphere ( TSL )
+- https://x.com/codrops/status/1899029632898490773
+- https://tympanus.net/codrops/2025/03/10/rendering-a-procedural-vortex-inside-a-glass-sphere-with-three-js-and-tsl/
+
+### Neural Connections Lines & Points
+- https://x.com/VoXeloStudio/status/1899093576442585255
+- https://codepen.io/VoXelo/full/MYWvzXq
 
 ### Magic Energy Orb
 - https://x.com/OtanoDesign/status/1855756802547179563
@@ -103,6 +129,10 @@
 - https://x.com/OtanoDesign/status/1858098972608405743
 - https://github.com/otanodesignco/energy-beam
 - https://energy-blast.vercel.app/
+
+### Lots Crazy shaped light effects with particles???
+- https://x.com/techartist_/status/1909958787978444953
+- https://codepen.io/VoXelo/full/LEYoopX
 
 ### Card / Sticker Foil Effect
 - https://github.com/bpisano/Sticker
@@ -148,10 +178,45 @@
 - https://x.com/TheMirzaBeig/status/1876609860017774652
 - https://www.linkedin.com/posts/mirzabeig_gamedev-vfx-realtimevfx-activity-7283091088498683905-d1Io?utm_source=share&utm_medium=member_desktop
 
+- https://x.com/minionsart/status/964257071423283200
+- https://x.com/ciaccodavide/status/987411639359234049
+- Using circle grid mesh : https://x.com/Mark_Khalil_art/status/1188455761283710977
+- Stretch noise on circle : https://x.com/frontakk/status/1206936549591371777
+- Shapes, smoke & energy : https://x.com/KTK_kumamoto/status/1392282447799218176
+
+- Volumetric Fire : https://x.com/thespite/status/1460680985431969797
+  - https://github.com/spite/codevember-2021/blob/main/16/main.js
+
+### Rain
+- Neon star rain : https://x.com/magic_chromatic/status/1960519218694070580
+  - https://www.patreon.com/posts/dream-star-rain-131718631?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
+  - https://www.youtube.com/watch?si=P0MpkmNwltSiS3vA&v=Yluqn2gF3nc&feature=youtu.be
 
 ### DBZ Aura 
 - https://www.artstation.com/artwork/lGZ45k
 - https://80.lv/articles/check-out-this-fanart-showing-majin-vegeta-s-explosion-in-dragon-ball-z/
+
+### Slime Liquid How To
+- https://x.com/VFX_Therapy/status/1955574320694165562
+
+### Procgen Cracks
+- https://x.com/kameinon/status/1960649835188773281
+
+### Outlines
+- https://drei.docs.pmnd.rs/abstractions/outlines
+- https://codesandbox.io/p/sandbox/rough-fire-vpkg44?file=%2Fsrc%2FApp.js%3A17%2C10-17%2C24
+- https://github.com/pmndrs/drei/blob/7d901b5c6ddc6d9aec68e9e643c50b95fd6bc0b2/src/core/Outlines.tsx#L64
+
+- https://x.com/minionsart/status/976179207599546368
+
+### Lightening
+- voxelize (quantize) : https://x.com/TheMirzaBeig/status/1702772072064442608
+
+### Flame Distored Ball
+- https://x.com/nickseavert/status/1972312417351651410
+
+### Toonish Color Flame
+- https://x.com/cmzw_/status/1964350272765120834
 
 ### UV & Shader Tricks
 - Bulge, Pinch and Pan UV : https://x.com/Tuatara_Games/status/1854584610606530821

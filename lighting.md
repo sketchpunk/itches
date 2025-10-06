@@ -1,5 +1,7 @@
 # Lightning
 
+
+
 ### Joyce newer Metal Toon Shader
 - https://x.com/minionsart/status/1829904147690209784
 - https://www.youtube.com/watch?v=ttVEvYQ7X5A&feature=youtu.be
@@ -32,6 +34,11 @@ round(dot(reflect(-lightDir, norm), viewDir) * x) / x;
 (x = resolution, or steps)
 ```
 
+### Sub Surface Scatering - Flesh
+- https://x.com/3dflashlo/status/1724478698429067483
+- https://lo-th.github.io/three.lab/examples/#webgl_materials_sss
+- https://github.com/lo-th/three.lab/blob/main/examples/webgl_materials_sss.html
+
 ### GTAO, Screenspace AO
 - https://cdrinmatane.github.io/posts/ssaovb-code/
 - https://x.com/Cody_J_Bennett/status/1815338863243538585
@@ -48,3 +55,29 @@ round(dot(reflect(-lightDir, norm), viewDir) * x) / x;
 - https://x.com/XorDev/status/1882941307683045593
 - https://mini.gmshaders.com/p/gamma
 - https://x.com/XorDev/status/1882938478834671837
+
+### Polyhedral Lights
+- https://bastian.urbach.one/rtswplusd/
+- https://x.com/BastianUrbach/status/1420292802982907907
+
+### Light Cookie with Cloud & Tree Shadows
+- https://x.com/minionsart/status/1715019567041233319
+- https://www.patreon.com/posts/animated-light-38047499
+- https://www.patreon.com/posts/animated-light-88618240
+
+### Fresnel
+- https://x.com/OtanoStudio/status/1737980462910333406
+- https://fresnel-shader-material.vercel.app/
+- https://github.com/OtanoStudio/Fresnel-Shader-Material
+
+### Fake Glow material into FakeVolumetricMaterial
+- https://github.com/ektogamat/fake-glow-material-r3f
+- https://x.com/Andersonmancini/status/1756041166259134726
+
+### Reflective Shadow Maps Global Illumination
+- https://github.com/ademola-lou/RSMGI
+- https://x.com/Ademola_4life/status/1932222317737689452?t=8OMf2nMG2z8W2QWLHCs4MQ&s=03
+- Has a 3mb sponza level & a grid textured level
+
+### Fast GGX-Based convolution for glossy reflection probs
+- https://x.com/guitio2002/status/1960758324275613898

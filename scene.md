@@ -19,3 +19,10 @@
 
 ### Unreal Motion Matching Scene
 - https://x.com/anas_tronaut/status/1859289080611368980
+
+### Home Office Portfolio How To
+- https://www.youtube.com/watch?v=aNJN8h_QsPA
+- https://x.com/andrewwoan/status/1898731355720057335
+
+### Misc
+- https://x.com/2unken/status/1910425633970368910
