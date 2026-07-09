@@ -8,24 +8,33 @@
 - UV Squares ( Straighten curved UVs ): https://github.com/Radivarig/UvSquares
 - PolyQuilt : https://blenderaddons.store/b/polyquilt-free-addon-for-retopology-in-blender
   - Fork: https://extensions.blender.org/add-ons/polyquilt-fork/
+  - https://x.com/3DxDEV7/status/2055211025343897627?s=20 DOES GOOD QUAD SMOOTHING
 - Source Import : https://github.com/REDxEYE/SourceIO
 - XPS Import : https://github.com/johnzero7/XNALaraMesh
   - https://github.com/Valerie-Bosco/XNALara-io-Tools
 - Bone Tools : https://github.com/namakoshiro/blender-bone-tools
   - https://x.com/namakoshiro/status/1900468044079731199
 - Lots of UV gen/fixing options: https://extensions.blender.org/add-ons/mio3-uv/
+- Rig Creator : https://mebycentral.com/starters/stride-calibrator/
+- Align Edges : https://x.com/kushirosea/status/2017130761892352475
+  - https://kushiro.gumroad.com/l/align_edges
 
 ### Tips
 - Smooth Weights : https://x.com/TheRoyalSkies/status/1933286379133231403
 - Paint Weights threw : https://x.com/TheRoyalSkies/status/1933605159440978116
+- Retopo : https://www.youtube.com/watch?v=24EtrCpg4Iw
+- Weight Painting : https://x.com/oyatsu009/status/2045672956052074891
 
 ### Tutorial
 - Lips : https://x.com/Danny_Mac3D/status/1337388073873780738
   - https://www.youtube.com/watch?v=Ms1vX1qi8Pg&feature=youtu.be
 
+- Eye Balls : https://x.com/HebertySales/status/2049320040424440006
+
 ### How To
 - Model Teach & Tongue : https://x.com/MrZing07/status/1971926667196354635
 - Skirt : https://x.com/Sidness_Art/status/1970847063026839902
+- Braid : https://x.com/jaeysart/status/2026278780910854316
 
 ### Tutorial 3D Room Scene - From Scratch - Day/Nite Cycles in ThreeJS
 - https://github.com/andrewwoan/sooahkimsfolio
@@ -36,7 +45,8 @@
 - https://blendermarket.com/products/free-addon-autouv/?ref=794
 
 ### Materials
-- Procgen Rust - https://www.youtube.com/watch?v=R64VesQyRn0
+- Procgen Rust : https://www.youtube.com/watch?v=R64VesQyRn0
+- Liquid Gas : https://x.com/cmzw_/status/2054574988611682600?s=20
 
 ### Double Subdiv Method for basemesh design
 - https://x.com/JanvandenHemel/status/1838982024255725770
@@ -82,3 +92,18 @@ https://x.com/tinynocky/status/1863937723817669029
 
 ### Snow / Dust
 - https://x.com/JanvandenHemel/status/1688243370252980225
+
+### Boolean
+- Hole : https://x.com/JanvandenHemel/status/1986837438413541590
+
+### Tutorials
+- Water Material : https://note.com/yutori_cg/n/nbf91a0b43667?sub_rt=share_sb
+  - https://x.com/yutorikoubo/status/2009116297234403360
+
+- Simple Painterly Shader : https://x.com/3DxDEV7/status/2029889323823153515
+
+
+### Materials
+- Advanced Toon Shader : https://x.com/Mix3Design/status/2032485584481010009
+  - https://www.youtube.com/watch?v=tLKZQcMYA9M
+- Fire, Ice, Portals, Etc over char meshes : https://superhivemarket.com/products/casey_sheep_free_bundle?ref=1211

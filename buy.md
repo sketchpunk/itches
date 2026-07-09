@@ -1,5 +1,8 @@
 # Buy
 
+### Devices
+- FlexBar, Touch screen button bar : https://eniacelec.com/products/flexbar
+
 ### Zelda toon rain & water splash
 - https://x.com/doublecats1/status/1856575585411313746
 - https://www.youtube.com/watch?v=XIPrjfdETYQ

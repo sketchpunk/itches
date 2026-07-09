@@ -35,3 +35,18 @@
 ### Sparky Stars : Voronoi noise  - Minkowski distance 
 - https://x.com/TheMirzaBeig/status/1734221833061228801
 - https://www.shadertoy.com/view/dlKBzK
+
+### Misc
+- Clouds : https://lo-th.github.io/root/superSky/
+  - https://github.com/lo-th/root/tree/gh-pages/superSky
+
+- Flat Skybox : https://github.com/ngwnos/three-tsl-atmosphere
+
+- Awesone Toon Cloud Skybox - https://www.reddit.com/r/Unity3D/comments/khxm2u/i_spent_3_days_of_pure_sweat_on_my_first_shader/
+
+- Stylized Skybox : https://www.patreon.com/posts/making-stylized-27402644
+
+- Northern Lights / Aurora Borealis : https://x.com/sabosugi/status/2043997749675204786
+  - https://codepen.io/sabosugi/full/XJjoprL
+
+- Sky & Atmosphere : https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/

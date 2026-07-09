@@ -30,10 +30,44 @@
 - Multiverse : https://drive.google.com/drive/folders/1-dW0GpgelVhsBCzV3qjxTtC7wcdvK5bT
 - Stoff - https://itch.io/c/3775364/free-for-personal-use-game-assets
 - Cool mech - https://trevital.gumroad.com/l/ZyNEq?layout=profile
+- https://studio.blender.org/characters/
+- Rigs : https://mega.nz/folder/9pYA2QAS#ObVSqUwp9BJLmNWCeFzebg
+- https://www.mediafire.com/folder/ety2bxjip3925/MMD_-_Genshin_Impact_-_Models
+- https://www.toanimate.ca/products/ghost-rig
+- League of Legends : https://models.spriters-resource.com/pc_computer/leagueoflegends/
+- https://github.com/StudioGalt/Sign-Language-Mocap-Archive
+- Ratchet Weapons : https://open3dlab.com/project/a7aec00c-8f67-4ab6-b1da-6f6e0fc7a2af/
+- Overwatch Lootboxes : https://open3dlab.com/project/1d9f763c-2210-46ea-9e59-71d5769144e4
+- ThunderJaw : https://open3dlab.com/project/9bfde6b5-d0b8-4277-b63e-d1651a697725/
+- https://github.com/m4urlclo0/ZZZ-Assets
+- Wuthering Waves / Genshin Impact : https://qiqi3d.com/product-category/3d-obj-pmx-fbx/
+- Weapons : https://binbun3d.itch.io/rpg-weapons
+- Food : https://binbun3d.itch.io/food-mega-pack
+- https://www.bilibili.com/blackboard/era/v77xPTuloXavtC2a.html
+- https://www.bilibili.com/blackboard/era/KS1dS8yunKgVWWVZ.html
+- https://www.bilibili.com/blackboard/era/xLtFlswKaVrde674.html
+- https://www.bilibili.com/blackboard/activity-vl9IMaaeyZ.html
+- Vis FX : https://www.actionvfx.com/collections/explosions/category?query_id=db2807cfb5fc8b0eab1c59c758836250
+
+- Breath Of the Wild : https://models.spriters-resource.com/wii_u/thelegendofzeldabreathofthewild/
+
+- Rigged batmobiles : https://www.cgtrader.com/free-3d-models/vehicle/sci-fi-vehicle/all-batmobiles-rigged
+
+- Garf's Rigs
+  - https://drive.google.com/drive/folders/1QV6ZlpRSoPg-FOPAcxM0-iGC2DmWylx7
+    - Pretty Derby, Honkai Star Rail, Girls Frontline, ZZZ 
+  - https://open3dlab.com/user/123102/
+  - https://x.com/GarfMaii/status/2048677222936957041
+
+- NTE : https://x.com/ymt3d/status/2051210697577816394
+- Invicible : https://drive.google.com/drive/folders/1xh9GSbdgM3cKXAF1-dX8wQub8NXc4MOU
+- ZZZ, Honkai, NTE, etc : https://drive.google.com/drive/folders/1QV6ZlpRSoPg-FOPAcxM0-iGC2DmWylx7
+https://www.aplaybox.com/model/model
 
 ### Animations
 - https://quaternius.itch.io/universal-animation-library
 - https://www.unrealengine.com/en-US/blog/game-animation-sample
+- https://github.com/StudioGalt/Sign-Language-Mocap-Archive
 
 ### Mark Lambert's Lighting Setup
 - https://ko-fi.com/s/f51fe0576c
@@ -110,4 +144,12 @@
 - https://www.fab.com/listings/fd2e9b28-6101-4237-a495-b33f74a16bc7
 - https://www.fab.com/listings/68553cf5-f034-458a-a21d-4c6e98e8ba12
 - https://www.fab.com/listings/27466b3b-0ea6-4b6f-b1f5-443b7cff50b8 Cool Anime baseMesh
-- 
+-
+
+### MISC
+- Good hand topo : https://x.com/KeyframeChef/status/2041466710784725393
+- UI Assets : https://free-ui-assets.yurinchi2525.com/
+- GameDev Res : https://github.com/Kavex/GameDev-Resources
+- AnimeStyle Scene unity : Tree Shaking, Cloud Gen, Anime Shader, Filters
+  - https://x.com/kaitaku_VRC/status/2064202659847192867?s=20
+  - https://kaitaku98.booth.pm/items/7845570

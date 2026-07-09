@@ -35,3 +35,6 @@
 
 ### Bezier Fitting
 - https://raphlinus.github.io/curves/2021/03/11/bezier-fitting.html
+
+### Misc
+- Sigmoid : https://x.com/antoniolupetti/status/2041697536319041858?s=20

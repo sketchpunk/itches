@@ -11,3 +11,12 @@
 - https://x.com/watawatabou/status/1682396620724269060
 - https://x.com/watawatabou/status/1685374932019040257
 - https://x.com/watawatabou/status/1834296783511458239
+
+### 2D Layout
+- https://github.com/OndrejNepozitek/Edgar-DotNet
+
+### Misc
+- AI Example, REALLY GOOD
+  - https://x.com/majidmanzarpour/status/2073742439211225234
+  - https://x.com/majidmanzarpour/status/2073880053536940501
+  - https://github.com/majidmanzarpour/threejs-procedural-dungeon

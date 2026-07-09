@@ -22,6 +22,7 @@
 
 ### Dot Product, Cross Product, Quaternions, and Matrix Rotation
 - https://x.com/ushadersbible/status/1826850118152110343
+- https://x.com/iced_coffee_dev/status/2008978710549155976
 
 ### Compute Shader Structure
 - https://x.com/FreyaHolmer/status/1826718390574350550
@@ -62,8 +63,19 @@ s: 4 (bits of stride)
 ### spherize UV
 - https://x.com/bruno_simon/status/1801637441645789683
 
+### 2D Rotation Matrix
+float2x2 RM2D(float a){ return float2x2(cos(a), sin(a), -sin(a), cos(a)); }
+
+### GLSL Anti Alias
+vec2 dxy = vec2(dFdx(d), dFdy(d));
+float aa = smoothstep(-1.0, 1.0, d / max(length(dxy), 0.0001));
+
 ### UV to Vec3
 - https://x.com/SoundSafari_io/status/1800686190468661630
+
+### Perspective Matrix
+- YUp-LeftHand : https://learn.microsoft.com/en-us/windows/win32/direct3d9/d3dxmatrixperspectivelh?redirectedfrom=MSDN
+- YUp-RightHand : https://learn.microsoft.com/en-us/windows/win32/direct3d9/d3dxmatrixperspectiverh?redirectedfrom=MSDN
 
 ### Pythagorean Theorem - Spherical Version
 - cos(a) = cos(b) cos(c)
@@ -119,6 +131,9 @@ cos(a) = cos(b)cos(c) + sin(b)sin(c)cos(α)
 
 ### Projective Transformation of 4 point plane
 - https://x.com/74WTungsteno/status/1863342529673855204
+
+### Smooth Zoom
+- https://x.com/Kiiiri7/status/2007940207300276336
 
 ### Color Wheel
 - https://x.com/XorDev/status/1958961505531007107
@@ -185,6 +200,11 @@ vec3 getCircle( vec2 a, vec2 b, vec2 c )
 - https://endesga.xyz/?page=rotor
 - https://endesga.xyz/?page=motor
 - https://endesga.xyz/?page=projection
+
+### Fermat's spiral
+- https://x.com/SketchpunkLabs/status/1662163198827536385
+  - https://en.wikipedia.org/wiki/Fermat%27s_spiral
+  - https://www.desmos.com/calculator/cnt2wgfnrp
 
 ### Non-Uniform Scaling - on Normals
 - https://x.com/lisyarus/status/1867287966881640472
@@ -321,3 +341,50 @@ vec4 rotNlerp(vec4 Q, vec4 R, float t) {
 
 ### Camera FOV & Position very smooth Updating
 - https://github.com/pygfx/pygfx/blob/769dc54a44bcf2f31fbd9f9276171890c11e57f7/pygfx/controllers/_base.py#L552
+
+
+### Spiraling
+- http://dmentrard.free.fr/GEOGEBRA/art2018/SpiralingMD.html
+- https://www.desmos.com/calculator/xzi8ftwy5z
+- https://www.desmos.com/calculator/fmhztmj0fw
+
+### Poincare's disk model, Elliptic, Parabolic, Hyperbolic
+- https://x.com/neozhaoliang/status/1999403124109525033
+- https://www.shadertoy.com/view/3c3fR8
+
+
+### Lerp
+- https://x.com/iced_coffee_dev/status/2016228842680021206
+  - Instead compute t from deltaTime: t = 1.0 - exp(-K * deltaTime)
+  - or more generally: t = 1.0 - pow(someDecay, deltaTime)
+
+### Color
+- Pigment Color Blending : https://x.com/soft_fox_lad/status/2023797288653779335
+  - https://pastebin.com/Z53LUuNJ
+
+
+### MISC
+- Complex Mappings : https://x.com/kyndinfo/status/2033158809170870279
+- m11 forms 
+  - https://x.com/instance_11/status/1995571426242560372
+  - https://x.com/instance_11/status/2033969374915399870
+  - https://x.com/instance_11/status/2013690803294486804
+  - https://x.com/instance_11/status/1996296153982513331
+  - https://x.com/instance_11/status/1985754200568152340
+
+- Polygon Sin/Cos: https://1ucasvb.tumblr.com/post/42906053623/in-a-previous-post-i-showed-how-to-geometrically
+  - https://1ucasvb.tumblr.com/post/42881722643/the-familiar-trigonometric-functions-can-be
+  - PPn(x) = sec((2/n)·arcsin(sin((n/2)·x)))
+  - Psinn(x) = PPn(x)·sin(x), Pcosn(x) = PPn(x)·cos(x)
+  - n == n is the number of sides of the polygon
+  - To rotate the polygon, just add an angle offset to the x in PPn.
+  - MORE SHAPES : https://x.com/mathemetica/status/2043348060953338265
+
+- Linear Algebra : https://x.com/swapnakpanda/status/2043393260744585464
+  - https://www.cs.ox.ac.uk/files/12921/book.pdf
+
+- Tiled Patterns : https://x.com/Pixelated_Donut/status/2044173204571173110
+
+- Compair Floats : https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html
+
+- Rotational Field : https://x.com/emilwidlund/status/2046622751859888133, field = (r, θ) => θ + Math.PI / 2

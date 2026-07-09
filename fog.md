@@ -17,6 +17,8 @@
 
 - https://mameson.com/experiment/glsl/clouded_beam_2/clouded_beam_2.html
 
+- https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/
+
 
 https://x.com/iced_coffee_dev/status/1864688637520036203
 This one is the same fog equation I sent you a while back, the crytek one. Then all I did was calculate an AABB intersection, use that to figure out the depth of the fog. Make sure to take a min between that and the scene's depth. Then I took a couple noise samples along that vector, starting at the AABB's near intersection, and fed that into the fog equation.
@@ -36,3 +38,11 @@ float ComputeVolumetricFog( in float3 worldPos, in float3 cameraToWorldPos) {
 
     return exp( -cGlobalDensity * fogInt ); 
 }
+
+
+### MISC
+
+- depth plane fog https://x.com/minionsart/status/1197262886420258819
+ - https://pastebin.com/sy37MVqU
+
+- Analytic Fog : https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/

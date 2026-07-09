@@ -2,6 +2,7 @@
 
 ### Infinite Grid with reduction of lines from camera distance
 - https://www.youtube.com/watch?v=mZorEowBauw
+- https://www.youtube.com/watch?v=RqrkVmj-ntM
 
 ### Proc Grid floor
 - https://x.com/amiradeuraseh/status/1886439468925927523

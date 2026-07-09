@@ -4,6 +4,31 @@
 - https://github.com/keijiro/NoiseShader
 - https://github.com/stegu/webgl-noise
 - Tilable Noise : https://github.com/Bubblebird-Studio/NoiseGenerator
+- https://github.com/JimmyCushnie/Noisy-Nodes/tree/master/NoiseShader/HLSL
+
+### Tutorials
+- https://x.com/iced_coffee_dev/status/2061520875799670933
+
+hash( vec2 p ){
+    vec2 M1  = vec2( 3.1251, 17.8737 );
+    float M2 = 43758.545312l
+    return fract( sin( dot(p,M1)*M2 ) );
+}
+
+fbm( coord, octaves, persistance, lacunarity ){
+    let amp   = 0.5;
+    let total = 0.0;
+    let pos   = coord;
+
+    for( i=0; i < octaves; ++i ){
+        n = noise( pos );
+        total += n * amp;
+        amp *= persistence
+        pos *= lacunarity;
+    }
+
+    return total;
+}
 
 ### Value erosion
 - https://x.com/Tuatara_Games/status/1859658039172923439
@@ -48,6 +73,9 @@ float col = smoothstep(0.7,0.3,v);
 And that minDist is found with an algo from 
 @iquilezles
 
+### Voronoi Projection
+- https://x.com/FrnkNlsn/status/1999091833864171721
+
 ### Zebra
 - https://junkiyoshi.com/openframeworks20241104/
 - https://github.com/junkiyoshi/Insta20241104
@@ -83,3 +111,33 @@ vec2 p=ceil(FC.xy*.1);o+=step(fract(52.9829189*fract(.06711056*p.x+.00583715*p.y
 
 ### Multi Sin Noise
 - https://x.com/XorDev/status/1731771853394292774
+
+### Curl Noise
+- https://glsl-curl-noise.vercel.app/
+  - https://github.com/SahilK-027/glsl-curl-noise
+
+- How to use it : https://www.linkedin.com/pulse/curl-noise-explorations-illugen-nicholas-seavert-svjve/?trackingId=buqesvXxiL19iBy8H5BYeA%3D%3D
+
+### Various Noise in TSL
+- https://threejsroadmap.com/blog/10-noise-functions-for-threejs-tsl-shaders
+  - White, Value, Perlin, Simplex, Worley, FBM, Ridged, Wood/Marble, Curl, Domain Warping
+
+### Misc
+- Angular noise??? : https://x.com/cmzw_/status/1984240000477876540
+- Electric Voronoi : https://0x7444ff-voronoi-electric-pattern.vercel.app/
+  - https://github.com/SahilK-027/0x7444ff/tree/main/voronoi-electric-pattern
+- Organic? : https://abstract-pattern-sk027.vercel.app/
+  - https://github.com/SahilK-027/0x7444ff/tree/main/abstract-pattern
+  - https://0x7444ff-organic-pattern.vercel.app/
+    - https://github.com/SahilK-027/0x7444ff/tree/main/organic-pattern
+- Topology? : https://0x7444ff-perlin-noise-advanced-abstract-pattern.vercel.app/
+  - https://github.com/SahilK-027/0x7444ff/tree/main/perlin-noise-advanced-abstract-pattern
+- Spectral Flow : https://0x7444ff-spectral-flow.vercel.app/
+  - https://github.com/SahilK-027/0x7444ff/tree/main/spectral-flow
+- Diamond Patterns : https://godotshaders.com/shader/animated-diamond-pattern/
+- Cyclic noise : https://x.com/stormoid/status/2044475887920320555?s=20
+  - https://www.shadertoy.com/view/fcjXzh
+
+- Voronoi-diagram for optimal Gaussian Quantization (Lloyd-Max-GQ) : https://x.com/thomasahle/status/2049531010157629773
+
+- Rainbow Noise: https://x.com/delaigrodela/status/2061030569190822337?s=20

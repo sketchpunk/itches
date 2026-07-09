@@ -1,5 +1,107 @@
 # Inverse Kinematics
 
+### Great Info
+- GDC Doom, Amazing lots of IK * Animation syncing ideas : https://www.youtube.com/watch?v=3lO1q8mQrrg
+- "Cruse-rule gait" for procedural walking for 4 legs or more : https://www.youtube.com/watch?v=HjmIOKSp7v4&t=35s
+
+### Godot
+- https://godotengine.org/article/inverse-kinematics-returns-to-godot-4-6/
+
+- SkeletonModifier3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/skeleton_modifier_3d.h#L37
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/skeleton_modifier_3d.cpp#L391
+
+- LookAtModifier3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/doc/classes/LookAtModifier3D.xml#L2
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/look_at_modifier_3d.cpp
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/look_at_modifier_3d.h
+
+- RetargetModifier3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/doc/classes/RetargetModifier3D.xml#L2
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/retarget_modifier_3d.h
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/retarget_modifier_3d.cpp
+
+- SpringBoneSimulator3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/doc/classes/SpringBoneSimulator3D.xml#L2
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/spring_bone_simulator_3d.h
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/spring_bone_simulator_3d.cpp/
+
+- BoneConstraint3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/doc/classes/BoneConstraint3D.xml
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/bone_constraint_3d.h
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/bone_constraint_3d.cpp
+
+- AimModifier3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/doc/classes/AimModifier3D.xml
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/aim_modifier_3d.h
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/aim_modifier_3d.cpp
+
+- ConvertTransformModifier3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/doc/classes/ConvertTransformModifier3D.xml
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/convert_transform_modifier_3d.h
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/convert_transform_modifier_3d.cpp
+
+- CopyTransformModifier3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/doc/classes/CopyTransformModifier3D.xml
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/copy_transform_modifier_3d.h
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/copy_transform_modifier_3d.cpp
+
+- IKModifier3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/doc/classes/IKModifier3D.xml
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/ik_modifier_3d.h
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/ik_modifier_3d.cpp
+
+- TwoBoneIK3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/doc/classes/TwoBoneIK3D.xml
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/two_bone_ik_3d.h
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/two_bone_ik_3d.cpp
+
+- ChainIK3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/doc/classes/ChainIK3D.xml
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/chain_ik_3d.h
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/chain_ik_3d.cpp
+
+- SplineIK3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/doc/classes/SplineIK3D.xml
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/spline_ik_3d.h
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/spline_ik_3d.cpp
+
+- IterateIK3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/doc/classes/IterateIK3D.xml
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/iterate_ik_3d.h
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/iterate_ik_3d.cpp
+
+- FABRIK3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/doc/classes/FABRIK3D.xml
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/fabr_ik_3d.cpp
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/fabr_ik_3d.h
+
+- CCDIK3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/doc/classes/CCDIK3D.xml
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/ccd_ik_3d.h
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/ccd_ik_3d.cpp
+
+- JacobianIK3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/doc/classes/JacobianIK3D.xml
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/jacobian_ik_3d.h
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/jacobian_ik_3d.cpp
+
+- BoneTwistDisperser3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/doc/classes/BoneTwistDisperser3D.xml
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/bone_twist_disperser_3d.h
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/bone_twist_disperser_3d.cpp
+
+- LimitAngularVelocityModifier3D
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/doc/classes/LimitAngularVelocityModifier3D.xml
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/limit_angular_velocity_modifier_3d.h
+  - https://github.com/godotengine/godot/blob/5cb1ec590036fba44cdd8e727136ec6c25f11660/scene/3d/limit_angular_velocity_modifier_3d.cpp
+
+
+
+### VRM
+- Constraints (has code) - https://github.com/vrm-c/vrm-specification/tree/master/specification/VRMC_node_constraint-1.0
+- SpringBone - https://vrm.dev/en/vrm1/springbone/
+
 ### UI 
 - https://x.com/BurakKaraoglan4/status/1896909191903858903
 
@@ -8,6 +110,7 @@
 - https://x.com/80Level/status/1821035916212785621
 - https://x.com/ChristophSchadl/status/1821063356301644047
 - https://x.com/cyanpuppets/status/1859080401790321027  // NICE SKELETON DESIGN
+- https://x.com/onirenaud/status/1986367172017594741 SDF Particles with BVH
 
 ### CCD
 - https://github.com/mrdoob/three.js/blob/dev/examples/jsm/animation/CCDIKSolver.js
@@ -115,6 +218,7 @@
 
 ### Interesting Arc
 - https://x.com/Probiner/status/1912090991697277365
+- https://x.com/FreyaHolmer/status/1626354308412317696?s=20
 
 ### IK With Quaternion Joint Limits
 - http://number-none.com/product/IK%20with%20Quaternion%20Joint%20Limits/index.html
@@ -169,8 +273,48 @@ The control is further shown to generalize across a variety of walking-related s
 ### Spline, CCD, Fabrik, Jacobian Godot
 - https://github.com/godotengine/godot/pull/110120
 
+### Jacobian
+- https://www.youtube.com/watch?v=2_cdDGwnl80
+
 ### Spring Bone VRM
 - https://github.com/vrm-c/vrm-specification/pull/496
 
 ### Rig Physics
 - https://x.com/Cartesian_C/status/1960389845429215393
+
+### Measuring Animations Speed
+- https://x.com/meby_central/status/2008125473579221446
+
+### Robotics
+- https://www.linkedin.com/posts/ilir-aliu_17-faster-inverse-kinematics-in-pure-python-ugcPost-7422698105923395585-DjZh?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABCBdyUBKZI3Bi-E7poUb5-kzZgKKi5j0RA
+  - https://github.com/chungmin99/pyroki
+  - https://pyroki-toolkit.github.io/
+
+- Mech arm Rig : https://www.youtube.com/watch?v=SCz1tmOVmFw
+
+### MISC
+- Procdural Turn : https://www.linkedin.com/posts/muhammad-kashif-ali-250487154_techanimstudios-unrealengine5-gamedev-activity-7420100618427707392-N6pH?utm_source=share&utm_medium=member_desktop&rcm=ACoAABCBdyUBKZI3Bi-E7poUb5-kzZgKKi5j0RA
+- Procdural Avoidance : https://www.linkedin.com/posts/muhammad-kashif-ali-250487154_techanimstudio-unrealengine-gamedev-activity-7395025821750673408-SISM?utm_source=share&utm_medium=member_desktop&rcm=ACoAABCBdyUBKZI3Bi-E7poUb5-kzZgKKi5j0RA
+
+- IK Run Cycle Path : https://x.com/HekiTen10/status/2025445284072087978?s=20
+  - https://x.com/HekiTen10/status/2025921403070066858
+
+- Stable Twist in IK Spline : https://dyncgi.wordpress.com/2026/02/23/en-ik-spline-twist-stable-without-flipping/
+
+- AI to retarget Mixamo Animations : https://x.com/saori_xbt/status/2029623210812023175
+
+- Cool looking tongue rig : https://x.com/jettelly/status/2032366052605378847
+
+- Amazing Ragdoll Effect : https://x.com/Cartesian_C/status/1960389845429215393
+
+- MMD IK : https://github.com/AmyangXYZ/reze-engine/blob/master/engine/src/ik-solver.ts
+
+- IK Foot, Sliding fix, Grounded, locomotion ( Free unity plugin )
+  - https://arkhipovdesign.itch.io/footwerk
+  - https://jettelly.com/blog/footwerk-a-foot-placement-plugin-made-to-reduce-foot-sliding
+  - https://www.youtube.com/watch?v=3SrBm_zbdLI
+
+- Decomposed FABRIK : https://helpful-pudding-de25bb.netlify.app/
+  - https://x.com/kiaran_ritchie/status/2069455535129367032?s=20
+
+- Procedural Spider : https://github.com/majidmanzarpour/threejs-procedural-spider

@@ -1,5 +1,9 @@
 # Particles
 
+### Systems
+- https://x.com/TAbrodi/status/2045115045076738172
+  - https://github.com/tigerabrodi/webgpu-vfx
+
 ### Lightning Particles
 - https://www.youtube.com/watch?v=NMTXHnsxgss
 - https://x.com/cmzw_/status/1832814622535201262
@@ -38,6 +42,10 @@
 - https://webgl.misclab.net/stars/
 - https://x.com/ufg2011/status/1819329710499025191
 - https://www.misclab.net/#stars
+
+### Attractors
+- https://x.com/measure_plan/status/1992620850261193003
+- https://x.com/EzekielProphecy/status/1987980956737642988
 
 ### Morph Shapes
 - https://x.com/techartist_/status/1912132028406866378
@@ -87,3 +95,66 @@ https://x.com/jcponcemath/status/1818884235199234453
 - https://www.reddit.com/r/threejs/comments/1npbhu1/i_open_sourced_my_galaxy_shader_it_should_be/?%24deep_link=true&correlation_id=50848704-6dac-4bfd-a2ac-8e034eb8d4e4&post_fullname=t3_1npbhu1&post_index=0&ref=email_digest&ref_campaign=email_digest&ref_source=email&utm_content=post_title&%243p=e_as&_branch_match_id=776980429946366153&utm_medium=Email%20Amazon%20SES&_branch_referrer=H4sIAAAAAAAAA22Q3U7DMAxGn6a729Y12aiQJoQEvIaVNl4byJ8cR91ueHZcBlwhJdLR%2BeLYycycy%2BN%2BT2it453Jeedd%2FNir%2FNR0WuUzgikbwURuctF4qOTP81rVqOeme5O1LMvup35MQQTJ5pkQ34uQuICRVzzEPMz1IOQgZYxQUqURLYQbTMab6w3KbCwSOBZK1VsYcO2ipNGx0xYxwzpgo16YqkSnMRGhN%2BxSBGfFH9te9w%2Bt3p6sGbd6uNit6YR6bJXGobcatdTlVBgu1ftoAq7XKfgb7x66aPEqSSuC8CKEwTgP1k1Y%2BC5hNCEbN8X%2F0%2Fv7fjORlQOMKbJ8iNjvNuzY4%2BZTjiORixMMlJaCdH61E34ByCDdZKABAAA%3D
   - https://github.com/AmitDigga/threejs-galaxy-shader
   - https://www.npmjs.com/package/threejs-galaxy-shader
+
+- https://x.com/dangreenheck/status/1990622795559285187
+  - https://dgreenheck.github.io/webgpu-galaxy/
+  - https://github.com/dgreenheck/webgpu-galaxy
+
+### Particle Force Fields
+- https://x.com/TheMirzaBeig/status/1079600507692429313
+  - http://www.mirzabeig.com/tutorials/gpu-particle-force-field/
+  - http://www.mirzabeig.com/tutorials/multiple-gpu-particle-force-fields/
+
+### Start Field & Planets
+- https://x.com/SahilK027/status/2011757220363714638
+  - https://github.com/SahilK-027/Celestial-Drift
+  - https://celestial-drift.vercel.app/
+
+- With Energy Pulse : https://x.com/techartist_/status/1966916286589661417
+  - https://codepen.io/VoXelo/full/raVgNog
+
+### MISC
+- With Noise : http://www.mirzabeig.com/tutorials/gpu-particle-animation-with-simplex-noise/
+- Springy : http://www.mirzabeig.com/tutorials/intro-to-custom-particle-vertex-streams/
+- Grid : http://www.mirzabeig.com/tutorials/3d-uniform-particle-grid/
+
+- Lines, Pipes, shapes https://x.com/thespite/status/2013011922715541926
+  - Has PBR from 3js/AI lighting part might be good to take if its one using it.
+  - Has NICE UI too, GOOD STUFF
+  - https://spite.github.io/genuary-2026/2/
+  - https://github.com/spite/genuary-2026/blob/main/2/main.js
+
+- Fibonacci forever : https://x.com/thespite/status/2013329007794631129
+  - https://spite.github.io/genuary-2026/3/
+  - https://github.com/spite/genuary-2026/blob/main/3/main.js
+
+- Quantum Neural Net, Grow Effects : https://x.com/techartist_/status/2012924481900261412
+  - https://codepen.io/VoXelo/full/dPMeGze
+
+- Snow : https://fragcoord.xyz/s/m00o1j2f
+
+- Swirling / Swarm / Running Character : https://x.com/SinzVII/status/2028301409196896464
+  - https://cullenwebber.github.io/three-particle-swarm/
+  - https://github.com/cullenwebber/three-particle-swarm
+
+- Noise Motion Cubes, looks nice : https://x.com/alelepd/status/2036879045594661127
+
+- Mesh Point Cloud with motion : https://particles-gpgpu-sk027.vercel.app/
+  - https://github.com/SahilK-027/0x7444ff/tree/main/particles-GPGPU
+
+- Rainbow Disc : https://x.com/jonkantner/status/2049527631066865795
+  - https://codepen.io/jkantner/pen/yyVBpaX
+
+- Awesome sparkling starts & Nebula SkyBox : https://x.com/techartist_/status/2052064327507837334
+  - https://codepen.io/VoXelo/full/xbRwmqE
+
+- Custom shader turns a plane into a ribbon following a noise path
+  - https://github.com/yufengjie97/planeTrail/
+
+- Swerling Swords, like fish demos : https://github.com/yufengjie97/WanJianGuiZong/
+
+- Moving & connecting, WebGPU : https://x.com/sun_7410/status/2069026646238339260
+  - https://yufengjie97.github.io/link-net/
+  - https://github.com/yufengjie97/link-net/
+
+- Animating on various shapes & Patterns, swoppable : https://codepen.io/VoXelo/full/azpyLae

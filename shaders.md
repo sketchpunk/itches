@@ -8,6 +8,37 @@
   - https://x.com/XorDev/status/1912237720220676345
   - uv = abs(mod(uv + 1.0, 2.0) - 1.0);
 - LOTS OF Lighting, etc code: https://github.com/alienkitty/alien.js/tree/main/examples/three
+- https://www.makingsoftware.com/chapters/shaders
+- 14 Shader Techniques: https://x.com/XorDev/status/2021357513237495932
+- ShaderToys like site: https://fragcoord.xyz/explore
+- LOTS OF SHADERS : https://godotshaders.com/shader
+- HEX Tiling : https://godotshaders.com/shader/stochastic-hex-tiling-mikkelsens-adaptation/
+- https://tsl-docs.vercel.app/
+
+### XOR
+- https://mini.gmshaders.com/p/turbulence
+  - It's a cheap, effective way to create fluidity without complicated formulas or resolution limitations
+- https://mini.gmshaders.com/p/chaos
+  - Chaos - Tiling / Layering / Spacing / Rotating
+- https://mini.gmshaders.com/p/dot-noise
+  - A cheap alternative to 3D simplex noise
+- https://mini.gmshaders.com/p/gm-shaders-mini-fractal-texturing-1408552
+  - Fractal Texturing to texture at any scale
+- https://x.com/XorDev/status/1784054180186927536
+  - fwidth outlines
+- https://mini.gmshaders.com/p/volumetric
+  - Volumetric Raymarching to create Glowing & Lighting Effects
+- https://x.com/XorDev/status/2021363563173134628?s=20
+  https://x.com/XorDev/status/1981417928302960666
+  - This concept can even be used for depth of field effects:
+  //Focus ratio should be small like 0.1 or 0.01
+  float focus = abs(depth - focal_point) * focal_ratio;
+  //Step through when out of focus
+  step_dist = max(step_dist - focus, focus);
+- Fast 3D pixel sorting: https://shadertoy.com/view/mdfyzl
+- Antialiasing with derivatives: https://mini.gmshaders.com/p/antialiasing
+- Blocky turbulence: https://x.com/XorDev/status/1975230424982183956
+- Easy radial noise with normalized coordinates: snoise2D(normalize(p) * SCALE)
 
 ### Collections 
 - https://sketches.isaacmason.com/sketch/intro
@@ -33,6 +64,9 @@
 
 ### UV Scale & Rotation
 - https://x.com/Tuatara_Games/status/1905318904244867140
+
+### Rigs with Glow
+- https://github.com/SahilK-027/TPP-Orbit-Camera-Controller
 
 ### Turbulence ( Liquid or Fire Effects )
 - https://mini.gmshaders.com/p/turbulence
@@ -90,6 +124,7 @@
 
 ### UV Distortion
 - https://x.com/Tuatara_Games/status/1961126642568630404
+- https://x.com/Tuatara_Games/status/2054969999719268359?s=20
 
 ### Mood Phase Shader
 - https://x.com/flogelz/status/1476285518396669954
@@ -115,6 +150,108 @@
 
 ### Turbulence
 - https://mini.gmshaders.com/p/turbulence
+- More Code in Comments : https://x.com/XorDev/status/2008979114544509285?s=20
 
 ### Phosphor
 - https://mini.gmshaders.com/p/decoding-phosphor
+
+### Jello
+- https://x.com/alexanderchen/status/1990865914758070622?s=20
+- https://aistudio.google.com/apps/bundled/vibecheck?showPreview=true&appParams=vibecheckcollectionBbQMXRGZwqxCirfzokN6&showAssistant=true
+
+### Noise Depth Sphere
+- https://x.com/cmzw_/status/1988223201009430657?s=20
+
+### Depth Card
+- https://x.com/cmzw_/status/1991161463273087369
+
+### SDF Normals
+- https://x.com/cmzw_/status/1988237431691489632
+- https://iquilezles.org/articles/normalsSDF/
+
+### infinite game of life
+- https://x.com/jcponcemath/status/1992439382910087374
+- https://oimo.io/works/life/
+- https://github.com/saharan/works/tree/main/life
+
+### Matcap generator
+- https://x.com/ycwhk/status/1989585025566986673
+- https://codepen.io/ycw/full/gbrMeXJ
+
+### Jump Flood Outlines
+- ScreenSpace SDF - https://x.com/nagakagachi/status/1987865976260763796
+- https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9
+- https://x.com/garrettkjohnson/status/1988450074318565774
+- https://github.com/gkjohnson/three-jumpflood-demo
+
+### 2D Fluid inside Sphere
+- https://x.com/TheMirzaBeig/status/1711574005247819899
+  - https://www.shadertoy.com/view/Ds3BRN
+
+### Black Hole 
+- https://x.com/dangreenheck/status/2008835472534151541
+  - RayTracing : https://github.com/dgreenheck/webgpu-black-hole
+
+### Stylized Mario Item Box
+- https://x.com/jettelly/status/1982492419120910410
+
+### Lens Flare
+- https://github.com/ektogamat/lensflare-threejs-vanilla
+- https://github.com/N8python/nektoFlare
+
+### Ascii Render
+- https://x.com/__rockbiter/status/1930205628162519526
+  - https://www.youtube.com/watch?v=MIZbAO_rNWU&feature=youtu.be
+
+### Painterly
+- https://www.youtube.com/watch?v=7RJGttIYNrY
+
+- https://www.reddit.com/r/Unity3D/comments/1tim92d/i_saw_a_painterly_shader_on_tiktok_and_tried_to/
+  - https://github.com/tantaneity/painterly-urp
+
+### Bump Color Noisey
+- https://x.com/ycwhk/status/1984106944706310556
+  - https://codepen.io/ycw/full/VYeGRqB
+
+### Patterns
+- Latvian : https://x.com/focru_ino/status/2033016010199199809
+  - https://twigl.app/?ol=true&ss=-OnjRJNc7sNVIh-PgR75
+
+### MISC
+- Procedural Hex Grid : https://x.com/TheMirzaBeig/status/1731890067264688388
+- Drip Shader : https://x.com/XorDev/status/2019209536352268572
+- Soap Film : https://x.com/ekimroyrp/status/2021268795772297515
+  - https://ekimroyrp.github.io/260208_SoapFilm/
+
+- Flesh Like / Cellular Automata : https://x.com/thespite/status/2028539206612422986
+  - https://spite.github.io/genuary-2026/9/
+  - https://github.com/spite/genuary-2026/blob/main/9/main.js
+
+- Hex Shield ( Awesome Scene ) : https://x.com/pmndrs/status/2041936585659453666
+  - https://pmnd.rs/blog/creating-flow-shield/
+  - https://pmndrs.github.io/examples/flow-shield/
+
+- Nebula : https://www.motion-gpu.dev/playground?demo=nebula
+
+- Neon Liquid Fluid / Energy, REALLY COOL : https://x.com/sabosugi/status/2043303971654410636
+  - https://codepen.io/sabosugi/full/XJjypjm
+
+- Oil Paint : https://x.com/yutorikoubo/status/2043832918750159035
+  - https://x.com/yutorikoubo/status/2043592899078877336
+  - https://x.com/yutorikoubo/status/2043619753206636939
+
+- Colored crystal cube : https://github.com/jeantimex/cmy-cube
+
+- Interior Mapping : https://x.com/codedgar_dev/status/2058794218613543284
+  - https://github.com/codedgar/three-fenestra
+  - https://three-fenestra.codedgar.com/
+  - https://github.com/emirhanyener/three-interior-plane
+  - https://threetag.com/three-plane-interior/
+
+ - Rainbow God Rays, Like NMS portaling scene
+   - https://x.com/sabosugi/status/2063530026361135225
+   - https://codepen.io/sabosugi/full/OPbrMKz
+
+ - Amazing Parallax Mapping Effect to raise Tiles / Iterative parallax mapping
+   - https://www.reddit.com/r/godot/comments/1u9sbwv/parallax_mapping_rules/
+   - https://godotshaders.com/shader/iterative-parallax-mapping/

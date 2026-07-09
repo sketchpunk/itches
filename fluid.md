@@ -7,3 +7,7 @@
 
 ### Tiling Flow map
 - https://x.com/klemen_lozar/status/987743611289681920
+
+### Misc
+- https://x.com/sabosugi/status/2047609012083114450
+  - https://codepen.io/sabosugi/full/gbwNZPr

@@ -77,3 +77,36 @@
 
 ### Icon
 - https://getstack.dev/category/iconset
+- LOADING ICONS : https://magecdn.com/tools/svg-loaders
+- LOADING MATH CURVES : https://github.com/Paidax01/math-curve-loaders
+  - https://paidax01.github.io/math-curve-loaders/
+
+### Cool Tile Design
+- https://x.com/brdrck/status/1991545694352732658
+
+
+### Machine Learning
+- https://www.deeplearningbook.org/
+- https://lilianweng.github.io/
+- https://labs.acme.byu.edu/Pages/intro.html
+
+### Documentation, Blogs, Ebook
+- https://www.fumadocs.dev/
+  - Nice Example : https://hello-terrain.kenny.wtf/blog/posts/elevation-stage
+- Lots of visuals for docs : https://github.com/nicobailon/visual-explainer
+  - https://interface-design.dev/examples.html
+
+
+### Game Ideas
+- Spinning Tetris Idea : https://x.com/FreyaHolmer/status/2033942518895628485?s=20
+
+
+### Misc
+- Resume Gen : https://github.com/JOYCEQL/magic-resume
+
+- Steam Controller : https://github.com/Alia5/SISR
+
+- Memory Allocator Tutoral : https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory
+
+- draco compression ported to JS lib : https://mrdoob.github.io/draco.js/
+  - https://github.com/mrdoob/draco.js

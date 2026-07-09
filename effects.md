@@ -12,9 +12,28 @@
 - https://x.com/TheMirzaBeig/status/1826576411038990577
 - https://x.com/TheMirzaBeig/status/1836363330794971312  Diff version :)
 
-### Fire Tornado TSL
+### Tornado TSL
 - https://x.com/threejs/status/1830934670223229328
 - https://threejs.org/examples/?q=webgpu%20tsl#webgpu_tsl_vfx_tornado
+
+- https://x.com/Mister_Prada/status/1994526018170933444
+  - https://github.com/MisterPrada/tornado
+  - https://tornado.misterprada.com/
+
+### Cracks
+- https://x.com/VFX_Therapy/status/1990870128985096337
+
+### Portal / Vertex
+- https://x.com/Jaenam97/status/1964264945991692721
+- https://www.shadertoy.com/view/wcjyDK
+
+- https://x.com/__rockbiter/status/1935984103377232073
+  - https://www.youtube.com/watch?v=WJXDhLAJA2E&feature=youtu.be
+
+- https://x.com/TheMirzaBeig/status/2030637955774124063
+
+- https://x.com/Silver2255/status/2030305320631747050
+  - https://medium.com/@aliunasiru08115/implementing-balatros-hypnotic-swirl-shader-in-godot-e33c8c136ea7
 
 ### Pixel Fire
 - https://x.com/lisyarus/status/1829219880626712871
@@ -41,9 +60,16 @@
 ### Portal Effect
 - https://x.com/heytibo/status/1815290593506927031
 
+### Shrinking Star Effect
+- https://x.com/bandinopla/status/2012914326571560965
+
 ### Cool Effect can be used for smoke, fire, maybe lightning
 - https://x.com/bruno_simon/status/1801635912918462562
 - https://x.com/cmzw_/status/1799648702338158747
+
+### Fire
+- Godot Tutorial Nice looking, even flame throwing : https://x.com/Le_x_Lu/status/2013003243291390226
+  - https://www.youtube.com/watch?v=Y1ZBzIiP-v4&t=1s
 
 ### Blackhole
 - https://sketches.sarlloc.xyz/sketch/blackhole
@@ -54,6 +80,13 @@
 - https://github.com/bhushan6/interactive-shield
 - https://x.com/Bhushanwtf/status/1833500075739517095
 - https://interactive-shield.vercel.app/
+
+- https://x.com/cortiz2894/status/2028835051895509392
+  - https://www.youtube.com/watch?v=v7tWJtHXw2k
+  - https://github.com/cortiz2894/flow-shield-effect
+
+- Nice Looking Shield : https://x.com/madebyhex/status/2041647366684520567
+  - https://www.motion-gpu.dev/playground?demo=bloody-planet
 
 ### Whirlpool Effect
 - https://x.com/festivevector/status/1803832776887562628
@@ -81,14 +114,24 @@
 - https://farazzshaikh.com/demos/demo-2025-car-paint
 - https://github.com/Faraz-Portfolio/demo-2025-car-paint
 
+### Dithering for Amazing Pixel Effects
+- https://www.linkedin.com/posts/roman-chacornac-3b0b47193_hello-linkedin-i-recently-had-a-small-idea-ugcPost-7425553070375342082-xmFH?utm_source=share&utm_medium=member_desktop&rcm=ACoAABCBdyUBKZI3Bi-E7poUb5-kzZgKKi5j0RA
+  - The key trick was applying - arcsin(sin(x)) - function to the UV node, which helped achieve the right gradient behavior for the dithering.
+  - Include Shader Graph image of effect
+
 ### Rain
 - https://farazzshaikh.com/demos/demo-2023-rain-puddle
 - https://github.com/Faraz-Portfolio/demo-2023-rain-puddle
+
+- Neon Glowing Puddles : https://note.com/acarcane/n/nc0f3d052e591
 
 ### Model Outlines
 - https://ameye.dev/notes/rendering-outlines/
 - https://x.com/alexanderameye/status/1427278221620310019
 - Noise : https://x.com/TheMirzaBeig/status/1725790181578449278
+
+- https://x.com/garrettkjohnson/status/2002950745075913054
+  - https://github.com/gkjohnson/three-edge-projection
 
 ### Fireflys
 - https://x.com/th_ebenezer/status/1850947389345206381
@@ -99,6 +142,37 @@
 
 ### CRT Pixel Renderer
 - https://threejs.org/examples/?q=interoperability#webgpu_tsl_interoperability
+- https://filthypants.blogspot.com/2020/02/crt-shader-masks.html
+- https://godotshaders.com/shader/realistic-crt-shader/
+- https://godotshaders.com/shader/VHS-and-CRT-monitor-effect/
+- https://github.com/qarlosh/godot-crt-lottes-shader
+- https://godotshaders.com/shader/crt-screen-shader/
+- https://babylonjs.medium.com/retro-crt-shader-a-post-processing-effect-study-1cb3f783afbc
+- https://mrmotarius.itch.io/mrmocrt
+- https://godotshaders.com/shader/vhs-and-crt-monitor-effect/
+- https://godotshaders.com/shader/vhs-and-crt-monitor-effect-2/
+
+### Hexigon grid
+- https://x.com/TheMirzaBeig/status/1731330177299280058
+  - https://www.shadertoy.com/view/Dl3fRl
+
+### Spiral Strip of text with Rainbow Lighting
+- https://x.com/fra_michelini/status/2014759852573143193
+- https://github.com/kekkorider/threejs-spiral
+- https://threejs-infinite-spiral.vercel.app/
+
+### Twinkling Stars
+- https://x.com/TheMirzaBeig/status/1734221833061228801
+  - https://www.shadertoy.com/view/dlKBzK
+  
+### Stylized Distortion
+- https://x.com/TheMirzaBeig/status/1866512552793919617
+
+### Sword Slash
+- https://x.com/TheMirzaBeig/status/1871748620128551135
+
+### Black Hole, Distortion, Gravitational Lens
+https://x.com/TheMirzaBeig/status/2006881499681825026
 
 ### Great Puddle & Fog example with simple UI to draw & move them
 - https://x.com/Tuatara_Games/status/1805662246779109387
@@ -115,6 +189,8 @@
 - https://x.com/OtanoDesign/status/1855756802547179563
 - https://github.com/otanodesignco/stylized-orb
 - https://stylized-orb.vercel.app/
+
+- VERY NICE: https://godotshaders.com/shader/stylized-flame/
 
 ### Tornado Vortex
 - https://x.com/OtanoDesign/status/1855881078172418319
@@ -196,6 +272,10 @@
 - https://www.artstation.com/artwork/lGZ45k
 - https://80.lv/articles/check-out-this-fanart-showing-majin-vegeta-s-explosion-in-dragon-ball-z/
 
+- https://x.com/AcarcaneCG/status/2039985011534053760
+  - https://note.com/acarcane/n/n20f1422d5695 
+  - https://www.youtube.com/watch?v=Fg5TwO4Z_40
+
 ### Slime Liquid How To
 - https://x.com/VFX_Therapy/status/1955574320694165562
 
@@ -209,6 +289,10 @@
 
 - https://x.com/minionsart/status/976179207599546368
 
+- 2D https://www.youtube.com/watch?v=yDNk1jHhXbI
+
+- Sketchy - https://x.com/TheMirzaBeig/status/1678057215675052033
+
 ### Lightening
 - voxelize (quantize) : https://x.com/TheMirzaBeig/status/1702772072064442608
 
@@ -217,6 +301,45 @@
 
 ### Toonish Color Flame
 - https://x.com/cmzw_/status/1964350272765120834
+
+- https://x.com/AcarcaneCG/status/2009544446157980026
+  - https://note.com/acarcane/n/n73c622308a2b
+  - https://www.youtube.com/watch?v=RDrswNZYiCo
+
+### Motion Blur
+- https://x.com/__rockbiter/status/1953024874173116828
+  - https://github.com/rock-biter/mesh-trails-01
+  - https://www.youtube.com/watch?v=42_NJwdwY1Q
+
+### Energy explosion
+- https://x.com/FaustXins/status/1998730443538018590
+
+### Strinking Star
+- https://x.com/doublecats1/status/2012521289525637417
+  - https://www.youtube.com/watch?v=Mv0zJQ0azjk
+
+### Wrinkles
+- https://lo-th.github.io/root/tension/index.html
+  - https://github.com/lo-th/root/tree/gh-pages/tension
+
+### Interior Mapping
+- https://lo-th.github.io/root/interiorMapping2/
+  - https://github.com/lo-th/root/tree/gh-pages/interiorMapping2
+- https://lo-th.github.io/root/interiorMapping/
+  - https://github.com/lo-th/root/tree/gh-pages/interiorMapping
+
+### Various Blur
+- https://x.com/TheMirzaBeig/status/2025178308401357078
+- Stochastic Sampling : https://x.com/TheMirzaBeig/status/2027234035295023432
+
+### Random Grid Walk, Optimized Buffer Geometry & Bloom Glow
+- https://x.com/AhmedShahnab/status/2025903477512384570
+- https://shahnab.github.io/random-walk-in-the-grid/
+- https://github.com/shahnab/random-walk-in-the-grid/
+
+### Liquid Background
+- https://x.com/sabosugi/status/2029477716987449626
+- https://codepen.io/sabosugi/full/QwKNErw
 
 ### UV & Shader Tricks
 - Bulge, Pinch and Pan UV : https://x.com/Tuatara_Games/status/1854584610606530821
@@ -260,3 +383,73 @@
 - Lightening Strike : https://x.com/Tuatara_Games/status/1760726146453316003
 - Fireball Strikes : https://x.com/Tuatara_Games/status/1755652719346675998
 - Fire Shell : https://x.com/Tuatara_Games/status/1570457215924051970
+- Distort X in both direction : https://qiita.com/median_ky/items/50e419434304fc7aeea6
+
+### Parallax
+- AWESOME PARALLAX PORTAL : https://godotshaders.com/shader/parallax-mapping-2/
+- PIXEL PARALAX PORTAL : https://x.com/jettelly/status/2038526652062314757
+  - https://jettelly.com/blog/pixel-portals-in-godot-a-stylized-take-inspired-by-binbun3
+  - https://nojoule.itch.io/pixel-portals
+  - AWESOME - Double Dither: https://godotshaders.com/shader/double-dither-stylized-transparency-shadows-retro-masks/
+
+- https://godotshaders.com/shader/dither-portals/
+
+- https://godotshaders.com/shader/steep-parallax-mapping-hard-parallax-shadows/
+- https://godotshaders.com/shader/parallax-mapping/
+
+### Misc
+- Cool sparkle effect with only plus simples : https://x.com/gobinda_das_dev/status/2030833450190512341
+- Quad Pixelization in post effect : https://x.com/bruno_simon/status/2034923953689329680
+  - https://x.com/bruno_simon/status/2034923956960903608
+- Gravitational Lensing 
+  - https://www.artificialnoodles.com/blog/the-reflecting/
+  - https://www.artificialnoodles.com/archive/the-reflecting/
+  - https://x.com/artfclnoodles/status/2034294395864756304
+
+- Anime Explosions : https://x.com/AcarcaneCG/status/2035273964977897668
+  - https://note.com/acarcane/n/ncc8d9d499696
+  - https://www.youtube.com/watch?v=AcNz0qPPR7U
+
+- Improving Threejs Bloom : https://www.youtube.com/watch?v=7oLgEV9ih1M
+  - https://yoa3d.com/demo/bloom/
+
+- Flame Portal, Stencil, Parallax
+  - https://x.com/jettelly/status/2037107292877836760
+  - https://jettelly.com/blog/binbun3-s-parallax-portal-effect-how-does-this-vfx-work
+  - https://binbun3d.itch.io/godot-portal-vfx
+
+- Magic Projectile : https://binbun3d.itch.io/magic-projectiles-vfx
+- Parallax Card : https://binbun3d.itch.io/godot-card-fx
+- Magic Orbs : https://binbun3d.itch.io/loot-vfx
+- Beams : https://binbun3d.itch.io/beam-vfx
+- Muzzle Flash : https://binbun3d.itch.io/muzzle-flash-vfx
+- Grass : https://binbun3d.itch.io/godot-grass
+- Toon Shader : https://binbun3d.itch.io/godot-ultimate-toon-shader
+  - https://bun3d.com/tutorials/shading/godot-toon-shading/
+- Sky Box - https://binbun3d.itch.io/godot-skies
+
+- Energy arc : https://godotshaders.com/shader/2d-lightning-electric-arc-plasma/
+  - https://godotshaders.com/shader/2d-electric-arc-plasma-effect/ 
+  - https://godotshaders.com/shader/lightnight-arc/
+  - https://godotshaders.com/shader/2d-lightning/
+- Plasma Waves : https://godotshaders.com/shader/plasma-waves/
+
+- Pixel Censor : https://godotshaders.com/shader/improved-censor-shader/
+
+- Anime Water and Fire : https://github.com/FoundryLogger/cel-lab?tab=readme-ov-file
+
+- Ghost / Hologram Shader : https://alvarosabu.dev/blog/creating-a-ghost-shader-with-tsl/
+
+- Crazy Energy Ball : https://x.com/clockmaker/status/2042553760581587188
+  - https://ics.media/entry/13973/
+
+- https://simonschreibt.de/gat/four-vertex-volume
+  - Lots Of Simple Effects, Projectile Ball, Light Saber with blur, DBZ Arra
+
+- Matrix Style Aizawa Attractor : https://x.com/techartist_/status/2050985031175409818
+  - https://codepen.io/VoXelo/full/ogYXYyK
+  - ẋ=(z-b)x-dy, ẏ=dx+(z-b)y, ż=c+az-z³/3-(x²+y²)(1+ez)+fzx³
+
+- Lightening Shocks Around Object : https://x.com/cmzw_/status/2052807230521745791?s=20
+
+- Large Glitter Flakes with Parallax : https://x.com/IlyasseL_/status/2053441356270383287?s=20
